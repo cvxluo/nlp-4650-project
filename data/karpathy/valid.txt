@@ -1,0 +1,763 @@
+<BOS> Neat, first tiny test flight of SpaceX's Grasshopper rocket! Hopes to be reusable rocket-- can land vertically. <EOS>
+<BOS> Officemate's convolutional network isn't working so he's typing very loudly. It's a bit distracting. Not sure what to do >.< #officedrama <EOS>
+<BOS> Finally after a while got a chance to get properly sweaty during Ping Pong today. Forgot how much I miss it. The ping pong I mean <EOS>
+<BOS> this find has made my day: "The Progress of Invention in the Nineteenth Century", written in 1900. <EOS>
+<BOS> I'm experimenting with  @brave  browser,  @DuckDuckGo  as default search engine, and VPN in an attempt to improve my internet hygiene. So far so good. Brave's BAT ( paints a much more appealing picture of monetization on the web than what we have today. <EOS>
+<BOS> I usually think of them as copycats who screw it up, but they are actually innovating in several directions here and I like most of them. <EOS>
+<BOS> Many years in the making: Our paper on the ImageNet Large Scale Visual Recognition Challenge is now up on arXiv <EOS>
+<BOS> In Prague... It's a small medieval maze :) <EOS>
+<BOS> I formatted #NIPS2013 accepted papers into nicer format (LDA topics, similarity sort, colors :p), like last year: <EOS>
+<BOS> (my very top recommendations have been rainfall videos for the last month because I tried it out once for coding) <EOS>
+<BOS> I used to use a combination of pickles, shelves, json files, text files with data one per row, ... became messy quickly for larger projects <EOS>
+<BOS> I signed up and was "elected" to be the PhD liaison in our CS department, and now realizing that maybe was a mistake #terribleatsayingno <EOS>
+<BOS> Well Bruno was completely outrageous. Job well done? :p <EOS>
+<BOS> Haha, some kids in Palo Alto have a lemonade stand that takes bitcoins. #paloalto <EOS>
+<BOS> visualizes Twitter activity around the world. It's not very well done, but I like the idea <EOS>
+<BOS> I'll be holding a demo session tonight for ConvNetJS at VLAB event "Deep Learning: Intelligence from Big Data" <EOS>
+<BOS> HUMAN (3 Volumes, min each) on YouTube  ; compiled from 2,000 interviews in 60 countries. Looks interesting <EOS>
+<BOS> Someone also got the core code running for High Energy Physics, hosted at  phew, happy to see it generalize easily <EOS>
+<BOS> Finished "The Martian" and loved it (review  now watching all Andy Weir (author) interviews <EOS>
+<BOS> For example, here's CMU project parsing unstructured abstracts -> structured databases. <EOS>
+<BOS> Topics that, if brought up, derail any conversation: Simulation hypothesis. Fermi paradox. AGI. Soylent. Universal Basic Income. Trump. <EOS>
+<BOS> Using convolutional neural nets to detect facial keypoints tutorial — Daniel Nouri's Blog <EOS>
+<BOS> It's okay #SpaceX, these 1st stage recoveries have their ups and downs <EOS>
+<BOS> Lol I asked a drunk apple engineer when new iPhone is coming out and he told me. is this still opposed to be unknown? <EOS>
+<BOS> PhD is a process of building a generative model of your adviser. <EOS>
+<BOS> Driving up from LA later today, podcast recommendations to cover ~6 hours? Some recent favorites: bio eats world, other a16z*, anatomy of next, problematic, invest like the best, Hardcore history, conversations with Tyler, EconTalk, this week in virology <EOS>
+<BOS> "I’d tell you a UDP joke, but you may not get it." <EOS>
+<BOS> On my way to 3-week Deep Learning summer school in UCLA. I joke that it's like Jesus Camp but with Deep Believers <EOS>
+<BOS> End of QA with Zuck. Was actually impressed that he seemed to know quite a bit about MLAI, had interesting visioninsights <EOS>
+<BOS> Mercedes Benz video on their self-driving car project  interesting they are trying with no lidar <EOS>
+<BOS> I'm reviewing this CV paper with 14 pages of features, BOW, clustering, SVMs, pruning, normalizations, PCA, kernels... dying a little inside <EOS>
+<BOS> Stephen Boyd's Convex Optimization II class has first meeting in an hour. Excited!  subgradients, ADMM, ... woo! <EOS>
+<BOS> Welcome to the era of big data psychometrics, hyper-targeted advertising, and optimal opinion control <EOS>
+<BOS> For the love of god Internet, I beg you please stop talking about the next iPhone maybe coming in gold color. I can't take it anymore <EOS>
+<BOS> DeepMind's Neural Turing Machine (NTM) has evolved into "Differentiable Neural Computer" (DNC), now in Nature:  [pdf] <EOS>
+<BOS> Value of serendipitous interactions are usually underestimated. Reminds me Steve Jobs insisting on having single bathroom at Pixar atrium <EOS>
+<BOS> Big History Project. Nice videos on history of our specieslife on planet.    Featuring  @BillGates  intro 1 <EOS>
+<BOS> Oh and it will also have a computer built into it throughout the fabric. (Based on crazy nano engineering articles I'm reading :p) <EOS>
+<BOS> Picking courses for next quarter. CS courses:  I want to take ALL of them but that's kinda tough. Also stats, math, eng <EOS>
+<BOS> Every few minutes I'm one keystroke away from erasing 2 months of results through a prompt asking yN, and it's terrifying ;s #liveontheedge <EOS>
+<BOS> Okay I take it back, the bitrate of explanation is too low. Too many bloated and useless fancy expressions. One of my biggest pet peeves <EOS>
+<BOS> “A Magazine Is an iPad That Does Not Work”  a fave video. As our technosphere becomes more advanced & pervasive it is increasingly difficult to distinguish it from raw physics. Eg one day it will be odd that there was a time you couldn’t talk to all objects <EOS>
+<BOS> Comprehensive looking document on "What should we learn from past AI forecasts?"  that I wish I had time to read <EOS>
+<BOS> No. I will NOT derive the MLE of a gaussian again. I will not do it. I choose to lose the marks and keep my sanity. <EOS>
+<BOS> 12 hours to write a 5 page research proposal from scratch. I guess this is what I'm supposed to be good at by now. <EOS>
+<BOS> Nice, more technical than usual Q&A with Elon Musk from Wired <EOS>
+<BOS> "in our galaxy alone, there are at least 8.8 billion stars with Earth-size planets in the habitable temperature zone." <EOS>
+<BOS> Delighted to stumble by this article bringing more attention to Stanislaw Lem and his work. Very high ratio of intellectual depth vs obscurity. nautil.us The Book No One Read I remember well the first time my certainty of a bright future evaporated, when my confidence in the panacea of technological progress… <EOS>
+<BOS> Google Glass wins the internet today: <EOS>
+<BOS> CVPR 2015 papers are now up so I organized them into my annual pretty interface  This year: new interactive t-SNE map <EOS>
+<BOS> Matt Welsh documents his experiences on "Moving my life to the cloud" <EOS>
+<BOS> Freshman demand for Computer Science (at UW, but this is national trend) is off the charts:  I like. <EOS>
+<BOS> Anybot cruising down the hall of the lab weeee <EOS>
+<BOS> +the actual talk on YouTube makes this more visual: "The Power of Big Data and Psychographics" <EOS>
+<BOS> Bored while waiting for my gradient descent to converge. Any second now...  I can just feel the gradients vanishing <EOS>
+<BOS> "Tensor Considered Harmful"  actually quite interesting, can strongly relate to many of the traps. <EOS>
+<BOS> My new iPhone 6S+ arrived today. Carrying around a 6+6S+ sandwich in my pocket today. Quite enjoying live photos, they are fun to play with <EOS>
+<BOS> An awesome cognitive science experiment from 1971: Mental rotation takes linear time to "simulate" in our heads <EOS>
+<BOS> Weird things happening to my punctuation( I think I need a break; <EOS>
+<BOS> Migrating arxiv-sanity to more permanent home @ Linode. Quite like the service &their docs are great Linux tutorials <EOS>
+<BOS> Great paper from Justin et al. at FAIR on compositional grounded queries diagnostics  (from Dec!; I had missed) <EOS>
+<BOS> New antibiotic ("halicin") discovered by training a neural net f: [molecule -> P(growth inhibition of E. coli)], then ranking ~100M other molecules  Sounds great! Slightly surprised: 1) training set of 2,335 sufficed, 2) wide structural distance of halicin <EOS>
+<BOS> Re-stumbled by this nice link: "Best Papers vs. Top Cited Papers in Computer Science (since 1996)" <EOS>
+<BOS> "Dead Code Should be Buried"  by  @honnibal  on NLP tools & new Python library spaCy  looks nice! <EOS>
+<BOS> New blog post: "Breaking Linear Classifiers on ImageNet" <EOS>
+<BOS> Grading the course projects for our ConvNet class. Impressed with the average quality, looking forward to releasing the projects in ~week <EOS>
+<BOS> We got an email from local media asking about state of the art Computer Vision systems doing this. Need to politely imply "no way not close" <EOS>
+<BOS> ML pro tip: cross-validate the random seed :p <EOS>
+<BOS> Zenbooth manufactures soundproof booths for open offices where you can disappear and concentrate:  sounds great zenbooth.net Office Phone Booths & Modern Office Pods | Open Office Furniture Our sleek office phone booths create a quiet space for individuals so they can focus, relax and be productive. We also offer 2-6 person meeting pods as the perfect conference room alternative. All... <EOS>
+<BOS> Cool Astronomy channel on YouTube I somehow never stumbled by before. High Quality videos  (via  @lorenzoriano ) <EOS>
+<BOS> TweetNLP: tokenizer, a part-of-speech tagger, hierarchical word clusters, and a dependency parser for tweets  nice! <EOS>
+<BOS> Roboticists walking their robo dog at #icra2013    vine.co Andrej Karpathy's post on Vine Roboticists walking their robo dog at #icra2013 <EOS>
+<BOS> Quite enjoying Coursera's "A Beginner's Guide to Irrational Behavior"  good instructor, fun, interesting material <EOS>
+<BOS> Randomly picked up this beauty from an artist on a street market. <EOS>
+<BOS> Several thought-provoking insights on inventioninnovation in this recent talk by Alan Kay at DEMO <EOS>
+<BOS> Can someone think of a single task that a person can't get better at through practice? <EOS>
+<BOS> Btw I'm slowly making my move to Google+, circle me there:  . I like to share things more there. pics+comments = ftw <EOS>
+<BOS> Great discussion today at dinner @ OpenAI on measuring fun of a party with camerasmicrophones and then maximizing fun. Action space TBD. <EOS>
+<BOS> Spent hours debugging this Neural Net + Reinforcement Learning demo, then forgot to close the tab and 2 hours later it works perfect. Sigh <EOS>
+<BOS> A screencast on one data scientist explaining how he tackles Kaggle competitions, his toolkit etc <EOS>
+<BOS> Hasty-looking but ~good response ( refuting some claims of ICLR paper on DNN generalization <EOS>
+<BOS> This article links to video explanation and interactive site for the whole brain fMRI study I tweeted about earlier <EOS>
+<BOS> Oops I accidentally disappeared from Twitter for 2+ weeks. My joy of being on Twitter has at first increased, but then sharply decreased with increased follower count. Thinking of starting a new (secret) account from scratch <EOS>
+<BOS> Blizzcon Blizzcon Blizzcon Blizzcon Blizzcon Blizzcon Blizzcon Blizzcon Blizzcon Blizzcon Blizzcon Blizzcon!!!!!!! can you tell I'm excited? <EOS>
+<BOS> Molecular Structure of Nucleic Acids  Watson & Crick, Nature 1953. Fun reading famous original texts. <EOS>
+<BOS> Unfortunately, "teach dog programming" returns very few hits on google <EOS>
+<BOS> Spotted in Palo Alto: Sergey Brin cruising in his Batmobile Tesla Model S wearing Glass. #siliconvalley <EOS>
+<BOS> In theory you can choose to ignore issues and not respond to emails asking for help, but in practice you feel like a jerk if you do. <EOS>
+<BOS> Programming a particle engine on my iPad in Codify :) <EOS>
+<BOS> Just came back from Startup school reception at Ycombinator. Many awesome people! Paul made brief appearance :) <EOS>
+<BOS> Hanging out with crowd of humanity students. The discussion topics are Achilles, Hamlet and things. So foreign :| <EOS>
+<BOS> Waiting in line for #iPhone4S ... Kinda uncomfortable. Ants here. Guess this is what it feels like to be homeless... :p <EOS>
+<BOS> I've been working on re-implementing Map Reduce - like (but better, obviously) system for PhD stuff at Stanford. Uses web server master. fun <EOS>
+<BOS> "If we don't think we can answer your question in Graph Search then we start showing results with Bing" Oh boy.... <EOS>
+<BOS> Very nice roundup of "Top 20 data visualization tools"  (via  @nandoDF ) <EOS>
+<BOS> We do this, then we do this, then we cluster that, then we retrain this if that, etc. etc. replace with "here's a function, train with SGD" <EOS>
+<BOS> Drove around inside Self-driving car for a bit. Quiet nerve-wrecking! :D <EOS>
+<BOS> Well, found my second oldest wallet (from 2011), but that one only has 0.04BTC. Heart was beating for a sec :( Can't find the older one. <EOS>
+<BOS> Humans have really lucked out with a number of animal species, eg esp horses and dogs come to mind, without which societyhistory would be quite worse off. Wonder what animals we didn’t luck out with (Would have liked some griffins...) <EOS>
+<BOS> New CS PhD admits are visiting Stanford tonight and for next 2 days. Fun events await, I'm excited! <EOS>
+<BOS> Electric run starting soon (5k) #electricrun  vine.co Andrej Karpathy's post on Vine Electric run starting soon (5k) #electricrun <EOS>
+<BOS> Haha, it looks like  @dribnet  is on a roll with amusing generative model results on faces (e.g. see  @smilevector ).   From  smile vector <EOS>
+<BOS> It's funny because I posted the HN analysis on HN in the _worst_ time to post it on HN according to my own analysis, and it's about to die <EOS>
+<BOS> [Papers with Code] Image Classification on ImageNet <EOS>
+<BOS> Paying with an Apple Watch sparks joy <EOS>
+<BOS> The  @whitehouse  and  @MichelleObama   now both have active Instagram accounts and kinda it's fun to watch <EOS>
+<BOS> The political speech objective: maximize number of words + number of tautologies stated - (bits of information expressed)^10 <EOS>
+<BOS> dismayed with how much boringbasic furniture is out there & how hard it is to find alternatives. Why get a lamp you can't even ssh into <EOS>
+<BOS> Well, that escalated quickly. It's great to see so much interest in tools for navigating the literature! Thinking of more features now... <EOS>
+<BOS> Nice Robotics blog by  @lorenzoriano  (currently postdoc at Berkeley):  looking forward to more posts! <EOS>
+<BOS> rplace was an awesome social experiment. A summary post:  (except the reason for no hate symbols was active banning) <EOS>
+<BOS> I went to Data-driven education workshop at NIPS this morning, some highlights from EdX and Khan Academy talks: <EOS>
+<BOS> Inceptionism: Going Deeper into Neural Networks  Very fun results. Opens doors to Deep Learning Computational Art ai. <EOS>
+<BOS> ok I don't actually know what I'm doing <EOS>
+<BOS> Laptop Orchestra. It's a thing! <EOS>
+<BOS> I've seen incorrect code gradcheck, correct code not gradcheck, I've seen code sometimes gradcheck. Certain I haven't seen it all. <EOS>
+<BOS> It's fun to watch the pretrained agents: PuckWorld agent scared of red circle, or WaterWorld agent skillfully navigating asteroid field <EOS>
+<BOS> Just in case you haven't seen this: "Here Comes Another Bubble"  from 2007 but still relevant! :) <EOS>
+<BOS> I still think they haven't taken it fully to logical conclusion. Where is the table in the car so you can workplay stuff while it's driving <EOS>
+<BOS> Heard my name name dropped on the latest a16z podcast during my morning commute, wrt AI. Unfortunately they think I work at Google ;'( <EOS>
+<BOS> This is fun. This guy's name is Hank and he bought a bus.  okay a little jealous <EOS>
+<BOS> Google+ shows why 140 char limit is a DUMB concept. People like the space. Many of the very commonly reshared+d posts are long and great <EOS>
+<BOS> ok NIPS papers page now also shows you whenwhere your favorite papers will be presented as posters during conference. Phew, gotta run now <EOS>
+<BOS> "In an hour-long smoking session of hookah, users consume about 100 to 200 times the volume of smoke of a cigarette" oh. just had some. oops <EOS>
+<BOS> Also imo ConvNetJS is perfectly suited for this kind of exploration of NN properties  intuitions. I have to put a demo together for this. <EOS>
+<BOS> ~2 hours debugging an issue I thought was due to something I misunderstood in the deep mathematics involved but I just forgot to call ` This bug really builds character <EOS>
+<BOS> Cleaning up & re-implementing a codebase from scratch is U-shaped: early enthusiasm, deep depression, retrospective joy. Right now in middle <EOS>
+<BOS> One more: click on day of a paper (ThuFriSatSun) and it will filter to papers with posters on that day. Click day again to show all days <EOS>
+<BOS> AI researchers will be familiar with ~50-80% of it though, but it's easy to skip around. Its overview. Doesn't get technical or too detailed <EOS>
+<BOS> Javascript MNIST: classify MNIST digits with Random Forest or SVMs, all in your browser: <EOS>
+<BOS> Why O2 Is Required by Complex Life on Habitable Planets and the Concept of Planetary “Oxygenation Time”  [pdf] v cool paper, strong case that complex life is quite likely to 1) use water as solvent, 2) be carbon-based, 3) reduce oxygen for energy metabolism <EOS>
+<BOS> Yay, my Narrative clip has shipped. Looking forward to doing some Computer Vision hacks with this kind of data <EOS>
+<BOS> watching #OculusConnect keynote. John Carmack on stage. Live stream: <EOS>
+<BOS> There are several methods for per-parameter learning rates (e.g. ada*) for deep nets. Haven't seen as much on per-parameter weight decays? <EOS>
+<BOS> 42 <EOS>
+<BOS> You've always wanted to see 20,000 centroids trained on couple hundreds of millions patches right?  I have 100,000 too <EOS>
+<BOS> I'm starting to realize how a phd works... :(  3 <EOS>
+<BOS> First day at Stanford. Spent ~4 hours talking about future of AI with very smart ppl (Sebastian Thrun included). I am in the right place :) <EOS>
+<BOS> Age of Empires is coming to Steam  (I spent more time than I care to admit (even to myself) on this game) <EOS>
+<BOS> Bingewatched Coursera class on Health and Food  interestingly highq production but too fluffy; Pollan's book in video <EOS>
+<BOS> This week's excitement and adventure in Machine Learning: #NeurIPS2019!  Talks & slides are live and being posted online <EOS>
+<BOS> Happened to watch the SpaceX live stream with my parents. Amusing discrepancy between my excitement and their complete confusion. Sigh <EOS>
+<BOS> NIPS Deep Learning workshop panel discussion: Chris Manning, Tomas Mikolov, Matt Zeiler, and ... Mark Zuckerberg. That will be interesting <EOS>
+<BOS> #followfriday  @poostatus  hilarious! <EOS>
+<BOS> So, the Universe is probably an exciting place...  715 new planets, 4 less than 2.5 rad of Earth and in habitable zone <EOS>
+<BOS> because I can use it as FBtwttr* . Also, add me there, search for my last name (karpathy)-- I'll circle you ;) (add you? plus you?) haha <EOS>
+<BOS> Example applications: 3D reconstruction of objects, photos with a bit of parallax, computer vision apps will work better as depth so useful <EOS>
+<BOS> Finished writing ICRA paper. Ready to submit, checking length--- I am one line over 8 page limit. I KNEW this would happen. Ohhhhhhhh <EOS>
+<BOS> All places in Mountain View are either 4 or 3.5 stars on Yelp. <sarcasm>That's useful. <sarcasm> Is it not possible to do better? #fail <EOS>
+<BOS> Rob Fergus showed some incredible visualizations of neurons in convolutional networks. Don't think they are publicly posted yet though <EOS>
+<BOS> Fastest growing OS project: CodeCombat from YC <EOS>
+<BOS> Important to be aware of & mitigate model calibration in real applications where thresholded outputs lead to diff behaviors. Good CVPR2020 paper on the topic:  TLDR: use an ensemble of T-scaled models, distill if you can't afford the added inference latency <EOS>
+<BOS> Well I now have 15,764 Energy points on Khan Academy :p I like their new approach of suggesting problems automagically. Some silly questions <EOS>
+<BOS> Can someone explain what's going on over in North Korea, and also about the mystery of what's in their water? <EOS>
+<BOS> Unsupervised. Large. HOG monster model. Temporal coherence. Tracking. Dirichlet Process. #midnightstatus <EOS>
+<BOS> The Uber endgame: privatized public transit  very interesting trends to watch <EOS>
+<BOS> Y Sequoia  "The new YC logo will be changed from orange to green as it is the color of sequoia leaves and money" :D blog. <EOS>
+<BOS> This by the way is just another one of Twitter's recent questionable changes to service, terms, conditions, API, etc. <EOS>
+<BOS> "We are really proud of what our team has done and we think the customers are going to love it" 20+ words, 0 bits of information <EOS>
+<BOS> There are ~500K books on Amazon (sensible estimate of total reasonable books), so in your lifetime you can hope to read about 1% of books. <EOS>
+<BOS> I am painting for the first time since I was ~10 :D. This is “the descent of man” - time is from left to right:  rocklava, microorganisms, sea things, plantlandsky things, and us. Mostly powered by the sun. I like, but need to do more detailed v2 when I level up :p <EOS>
+<BOS> "Control of Memory, Active Perception, and Action in Minecraft"  3D mazes; nice paper. I welcome Minecraft benchmarks <EOS>
+<BOS> Help revolutionize the world with full self-driving by joining us at Tesla Autopilot:  It is very hard to find other places where AI expertise makes as much of a difference on as big of a problem. <EOS>
+<BOS> Y Combinator Winter 2013 Demo Day, Batch 1   interesting stuff here! <EOS>
+<BOS> Spent almost 3 hours wrapping Weka to work from MATLAB. It sort of works but ... I'm exhausted! Time well spe... wait, no, not well at all <EOS>
+<BOS> Random command line trick #tip of the day: hope you know about CTRL+R in terminal (allows history-based autocomplete quickly) <EOS>
+<BOS> what are all these gazillion sliders in Adobe's Lightroom for processing DSLR images? I really just want a few Instagram filters. <EOS>
+<BOS> A not-exceptionally-revealing new interview with lead on Google Glass  sounds like they aren't moving very fast <EOS>
+<BOS> Very nice  comprehensive tutorial slides on Deep Learning  from Kyunghyun Cho (via  @stanfordnlp  ) drive.google.com dnn_tutorial.pdf <EOS>
+<BOS> ok I'm pretty sure I wrote the tiniest autograd engine with a neural net library on top of it, weighing about ~50 LOC for the engine, ~50 LOC for the neural net library, and it's super cute and totally works. MicroGrad: <EOS>
+<BOS> haha, my convnet thinks this image of kindergarten children on bikes is a "bicycle gang". You could count that as correct :D <EOS>
+<BOS> "This morning, there are more than one billion people using Facebook actively each month."  Let that sink in for a while <EOS>
+<BOS> Looking forward to guest lecture at Stanford's "Minds and Machines" class on Thursday  the course slides are nice! <EOS>
+<BOS> Played 6 times almost binary event, lost 5 won 1. You'd be as unlucky or worse  than I was with only 12% chance 1 <EOS>
+<BOS> I hate Sundays! Where is everyone???!! :( <EOS>
+<BOS> The Statistical Molecular Thermodynamics class has nice Physics Demos Vids including violent exothermic reactions :) <EOS>
+<BOS> I really dislike checking my email in the morning. It's like you get a TODO list sampled from the universe every morning. <EOS>
+<BOS> I write python scripts all the time that print arrays into files one per line as f.write('\n'.join(somelist)). Screws up wc -l count <EOS>
+<BOS> Requires me to enter gmail addresses. can DM me <EOS>
+<BOS> Augmented reality = killer app for Google Glass, eventually. For preview demo of possibilities see recent TED talk: <EOS>
+<BOS> No, every single mobile website out there, I don't want to view your content on your app <EOS>
+<BOS> I ran some optimizing experiments with Caffe AlexNets one step at a time, got K40 from 1800msfwdbwd pass -> 950ms <EOS>
+<BOS> Google Scholar is not very usable. This paper shows that maintaining your list of publications is in fact NP-hard <EOS>
+<BOS> Sergey Brin donated 500,000 dollars to Wikipedia. Nice! 2 <EOS>
+<BOS> All of Internet is very boring these days. Am I suffering from #TEWS? ( Toxic Election Withdrawal Syndrome ) <EOS>
+<BOS> Wrote this codebase from scratch over last week so I hope there aren't too many bugsissues. It gradchecks fine and gives nice final results <EOS>
+<BOS> Reading The Elements of Moral Philosophy, hacking JS, & enjoying  @secondcup  , awesome Canadian Starbucks alternative <EOS>
+<BOS> That was a sizable chunk of yesterday I was talking about (instead of working on CVPR work :S ) worth it! <EOS>
+<BOS> I've added two new tutorials to my "Game Programming in Python Tutorials site"  (no vids, but hope its useful anyway) <EOS>
+<BOS> I love this a lot: "Google Research Blog: Deep Learning for Robots: Learning from Large-Scale Interaction" ai. <EOS>
+<BOS> Ooooh no... I discovered that Netflix has episodes of one of my fave shows, "How it's made". I don't want to go to sleep at 4AM again :'( <EOS>
+<BOS> New Kickstarter: PetBot: Seefeed your pet in real time remotely through iOS app  (project by awesome UofT friends) <EOS>
+<BOS> Cool segment on dog intelligence (see ~11min mark especially to see pretty impressive inference)  (via  @IgorCarron  ) <EOS>
+<BOS> 1 more review to go before bed ;'~s    <-- my unhappy, caffeine-overdosed face at the moment 1 <EOS>
+<BOS> Gittip is interesting and potentially disruptive. Allows you to set up weekly money gifts to arbitrary people <EOS>
+<BOS> I've half-learned to do a backflip myself a few times, but this just put me over a threshold again, going to open gym on tuesday. <EOS>
+<BOS> It's a bit funny which image of Yann LeCun AllThingsD chose to use in their story about new Facebook AI lab:  :D <EOS>
+<BOS> Awesome tour of SpaceX facilities. Lots of tech <EOS>
+<BOS> (Just kidding by the way, I disabled most of that stuff by now. But at point it was similar) <EOS>
+<BOS> LOL: "For all k, log(k) <= 30". (via Andrew Ng (via someone at CMU)) <EOS>
+<BOS> Good read! Fave quote: “suppose you are playing tennis & hit the ball incorrectly. Which of your 100 trillion synapses are to blame? And how does the brain correct the right synapses in your motor system when the error is delivered through the visual system hundreds of ms after?” My new post for the @Stanford Human Centered AI Initiative: a personal vision of how #neuroscience #psychology #ai #physics #mathematics and other fields can work together to both understand biological intelligence and create artificial intelligence! <EOS>
+<BOS> In a coffee shop. I don't usually spy but a girl in front of me has so far spent more than hour only on Facebook. Incredible <EOS>
+<BOS> Was about 2 weeks. I'm supposed to have highly insightful epiphanies to my work now or something, which I am eagerly awaiting. <EOS>
+<BOS> Interesting,  @BlindFilmCritic  is blind since birth, uses Instagram, posts cool YouTube videos on what it's like to be blind <EOS>
+<BOS> New blog post: Shaking things up a bit with a short story on AI, "A Cognitive Discontinuity" <EOS>
+<BOS> Had farming bot: LUA called WoW API & drew UI elements w colors, which I readdecoded from screenshots in C++ & emulated keymouse actions <EOS>
+<BOS> Nice tutorials that explain various ways to neatly layout a set of images, with demos. <EOS>
+<BOS> Black mirror ep about Twitter: What should be about ppl connecting becomes opposite: echo chambers of angeroutrage, witch hunts & trolling <EOS>
+<BOS> Feels like I'm imprisoned by this text field. I want to break freee <EOS>
+<BOS> Proving that Android’s, Java’s and Python’s sorting algorithm is broken (and how to fix it)  #formalverificationwin <EOS>
+<BOS> Mathematics in Movies: Harvard Professor Curates 150+ Scenes.  (via  @sc_k ) <EOS>
+<BOS> This is awesome,  @seaandsailor  ran char-rnn on Irish folk tunes and then sampled music. Works nicely! :) Want more I created a playlist to upload all the awesome pieces composed by char-rnn when trained on ~14k Irish folk tunes: <EOS>
+<BOS> i.e. for ImageNet, we went from ~3% to 2.25% in last year. Fun to revisit my 2014 post human vs machine <EOS>
+<BOS> That moment when you find out your genius idea is actually a well-explored topic for the last 4 years and a topic of at least one PhD thesis <EOS>
+<BOS> Zenbo the home robot from ASUS concept video  Very painful to watch. I hope it's a bad joke or a horror movie trailer <EOS>
+<BOS> SIGGRAPH 2014 : Technical Papers Preview Trailer:  via  @YouTube <EOS>
+<BOS> Crunchies results are in  agreed with many of their choices. Kickstarter won best overall startup <EOS>
+<BOS> Friend doing a #backflip crazy! vine.co Andrej Karpathy's post on Vine Friend doing a #backflip crazy! <EOS>
+<BOS> Second time I tried to get into DOTA 2 and I just can't. Get bored. First very popular game that I don't understand :( Maybe I'm growing old <EOS>
+<BOS> I really like that they're using live coding + Javascript + Processing combo. Exactly what I would have done :) ehm... <EOS>
+<BOS> Ted Chiang's novelette "Understand" is one of the best things I've read in a long while (making my way though Story of Your Life and Others) <EOS>
+<BOS> Nice and understandable talk on "Particles, Fields and The Future of Physics" - A Lecture by Sean Carroll: <EOS>
+<BOS> "The Rise of the Drone Market"  nice list of pointers to everything drones (via  @chanian  ) <EOS>
+<BOS> $3040 w two hours left. Will match the final price and donate, though have yet to identify howwhere (any recommendations?). It's grown on me; Special-purpose ancient nuclei layered over by the cortex layered over by a synthetic exocortex, all copies networked into one "computer" Yikes, my early morning "masterpiece" was bid up to $700 . Looking into ways of donating the proceeds. Itching to wet my feet in a bit more serious Solidity side project though twitter.comkarpathystatu… <EOS>
+<BOS> Friend, while we're pair programming on MIT Mystery Hunt: "We could use a global variable. But we're better than that." lol. Global var hate <EOS>
+<BOS> Along with a book, Microsoft released their Random Forest  Decision Trees code in C++C# <EOS>
+<BOS> Thanks  @vakibs  for link to Roger Shank's  (RE my previous Marvin Minsky link). Interesting read. "AI isn't physics". <EOS>
+<BOS> "What is that?". "It's a watch". "Cool! What does it do?" #2015 <EOS>
+<BOS> timm has become the SOTA destination for finding ImageNet SOTAs :), here bumping OG 2015 He et al. ResNet-50 75.3% -> 80.4% by modernizing the training recipe alone. Epochs++, LAMB, cosine LRD, weight_decay++, BCE, label smoothing, stochastic depth, RandAugment, MixUp, CutMix I'm pleased to announce that the 'ResNet strikes back' paper is now on arxiv! Moving the baseline forward to 80.4% top-1 for a vanilla ResNet-50 arch w better training recipes. No extra data, no distillation. <EOS>
+<BOS> A company: "We connect talent with business to innovate the next technology." Me: facepalm, deeeeep sigh 1 <EOS>
+<BOS> Well, since I'm in Nevada I'll briefly be non-optimal and play some roulette. #negativeexpectation 1 <EOS>
+<BOS> By the way I forgot to mention that I'm currently co-creating the programming assignments for the #mlclass ,which is a lot of fun. <EOS>
+<BOS> From some YouTube person: "We’ve had some really great response from the advertiser community". That's the TV spirit! Good job! <EOS>
+<BOS> Their fMRI Data is from participants watching 2hr movie, they annotated all frames with objectsactions present <EOS>
+<BOS> Nice long article about the Octopi, their intelligence   my (by far) favorite sea monster <EOS>
+<BOS> Why the Future of Farming is in Cities - The Big Money in Vertical Farming <EOS>
+<BOS> #phdsuperpower Paper Deadline: You become resistant to effects of time of day. All stats improved 2x. After deadline all stats 0.1x for week <EOS>
+<BOS> Playing devils's advocate is the core requirement to being scientific, IMO. I can't trust anyone who thinks they have it figured out <EOS>
+<BOS> One of my favorite activities by far: tipsy and talking to physicists about QFTGR arrow of timeentropyconsciousness. Fun guaranteed <EOS>
+<BOS> Learning to play Flappy Bird with Q Learning <EOS>
+<BOS> This is cool: Tessel is an Internet-connected microcontroller that runs Javascript <EOS>
+<BOS> This set of videos by Onion on "Horrifying planet" is quite hilarious  I recommend numbers 1,3,7 at least <EOS>
+<BOS> ANDREESSEN: We're Going To Invest A Boatload Of Dough In Google Glass Startups  via  @sai <EOS>
+<BOS> Preparing  for avalanche of ECCVACL papers. Now have 400 accounts & 2500 papers added in libraries. 300 sessionsday <EOS>
+<BOS> Just finished watching Crunchies ( was nice, except wait, did  @elonmusk  just lose to Instagram guy as best founder? <EOS>
+<BOS> DeepStereo: Learning to Predict New Views from the World's Imagery  impressive! + video: <EOS>
+<BOS> Palaeolithic Park? Harvard professor seeks 'adventurous' woman to give birth to baby Neanderthal  interesting <EOS>
+<BOS> DARPA Robotics Challenge Finals: Know Your Robots  DRC finals happening on FridaySaturday; exciting! <EOS>
+<BOS> This was actually really good. I've spent some time translating biology to CSEE termsabstractions, this makes a lot of those analogies explicit. +"Genetic circuit design automation" Science paper [2016] link  How Biology and living cells "compute", where proteins act like logical gates inside of a cell, giving an example of programming "hello world" using cells. Great talk by Joe.  Full video: <EOS>
+<BOS> Checked out Geoff Hinton's coursera class yesterday. Wrote little rant on slight overhype of neural nets among laymen <EOS>
+<BOS> Mary Meeker’s 2017 internet trends report is making the rounds  for a good reason - 355 pages of interesting. <EOS>
+<BOS> What is the ideal ground truth for an image? #thingsthatkeepmeupatnight <EOS>
+<BOS> I've also noticed that my writing style has been drifting over time, likely due to influence of  which I agree with. <EOS>
+<BOS> Open Syllabus Project  Open Syllabus is a non-profit organization that maps the curriculum of higher education. Database of  stats from 7M class syllabi <EOS>
+<BOS> e.g. "If you drive for sight-seeing purposes to the scene of a fire, collision, or other disaster, you may be arrested". hah <EOS>
+<BOS> Duplexes talking to duplexes would be an amusing use of existing (human) interfaces but by AIs. Just like autonomous cars use existing roadssigns for humans, or how our "world of bits" AI at OpenAI used simulated keyboardmouse events to interact with web pages. Very amusing. <EOS>
+<BOS> Is there a word for that paranoid feeling you get when you think you may be readinglistening to something generated by a GPT? And why should it matter that it was, exactly <EOS>
+<BOS> New blog post: "Software 2.0" karpathy. <EOS>
+<BOS> Tim Cook just took the stage at Apple to introduce the new iPhone. Live stream from TC   (no video live streams today) <EOS>
+<BOS> Also, this SIGGRAPH paper from MIT was quite surreal, don't miss:  "Eulerian Video Magnification.." <EOS>
+<BOS> Quora introduces blogs. Strives to help good writers grow an audience, improve discovery  hmm, like. maybe. <EOS>
+<BOS> #icra2013 robots vine 1 vine.co Andrej Karpathy's post on Vine #icra2013 robots vine <EOS>
+<BOS> Very sad to hear of  @davegoldberg  suddenly passing away at 47. I remember many mentions of him in Sheryl's Lean In :( <EOS>
+<BOS> New Boston Dynamics introducing SpotMini  looks awesome! Love the ending :D <EOS>
+<BOS> Drank a lot of water, not feeling too hungry anymore. Worst case vending machines downstairs have Snickers. #grad #survival #thanksgiving <EOS>
+<BOS> Also, imo people keep overblowing the significance of the YouTube cat result. I guess I know too much about how that image was obtained. <EOS>
+<BOS> Yoshua Bengio gave 3 talks last week on Deep Learning, videos+slides here: <EOS>
+<BOS> Take marketing inspiration from Microsoft's CEO <EOS>
+<BOS> TV anchor says "Alexa order me a dollhouse" on live TV, Alexas in people's homes activate and go on shopping spree <EOS>
+<BOS> Hmm... slightly fiddling this threshold for what counts as a correct match, I can make the baseline better or worse than my method #naughty <EOS>
+<BOS> Clubhouse so hot right now :) Hosting a Clubhouse tonight 8pm PT with @karpathy @RichardSocher @jcjohnss on recent breakthroughs in AI. Will discuss image transformers, CLIPDALL-E, and some other cool recent papers. Join at: <EOS>
+<BOS> Preparing presentation for Monday on "one weird trick to get your ConvNet to train!" & "the secret Geoff Hinton does not want you to know!" <EOS>
+<BOS> Switching back to Firefox because of Chrome issues on Ubuntu (no (working) mouse gestures, weird rendering). Noticably more choppy :S Bleh <EOS>
+<BOS> >> while 1, ICML_crunch; end; <EOS>
+<BOS> my iOSfu is growing stronger <EOS>
+<BOS> I hoped TensorFlow would standardize our code but it's low level so we've diverged on layers over it: Slim, PrettyTensor, Keras, TFLearn ... <EOS>
+<BOS> I was coding when Docker popped up an "Update?" dialog. Instead of a newline in my code I accidentally confirmed an Update&Restart. UX fail. <EOS>
+<BOS> Lol, recommendation from friend on music: japanese avantgarde metal  ...uhh... interesting  she burns a book too <EOS>
+<BOS> Bombarded with #SIGGRAPH2013 tweets. Wish I was there :( Here are all the Technical Papers first pages  [pdf] <EOS>
+<BOS> On John McCarthy, and my thoughts on AI and how we'll get there. <EOS>
+<BOS> Stanford holi    vine.co Andrej Karpathy's post on Vine Stanford holi <EOS>
+<BOS> Okay I took Nyquil ~5 minutes ago (on very empty stomach) and now I'm going to live tweet falling asleep as it kicks in. Because I'm bored <EOS>
+<BOS> Explore the Grand Canyon with Google Maps:  will be epic once Oculus Rift arrives. Some agree: <EOS>
+<BOS> Awesome news , really  The Roots of Progress workmission and encourage people to check out the poststalks and subscribe to the newsletter  I’m excited to announce that @rootsofprogress  is now a nonprofit organization.  Our mission is to establish a new philosophy of progress for the twenty-first century. <EOS>
+<BOS> All Natural numbers are interesting. Proof: suppose some aren't. Then there's a smallest uninteresting number. That's interesting. =><= QED. <EOS>
+<BOS> I had a script take+save a screenshot every 1 minute last April, and it's strange to re-live it all & reflect now almost year later <EOS>
+<BOS> Percy Liang's Statistical Learning Theory class ( is packed! Wondering if I should take. Eeeee #toomuchstuff 2 <EOS>
+<BOS> This is making rounds: Machine Learning has a podcast now :) "Talking Machines"  ep1 is up <EOS>
+<BOS> I put together a Support Vector Machine (SMO) solver in JavaScript. Allows for pretty browser SVM demo  code on github <EOS>
+<BOS> Smart move and clever implementation of (video) chat by Snapchat  best articulated reasons: <EOS>
+<BOS> John Oliver's much needed segment on "Scientific Studies"  Good analogy to science reporting as a game of telephone <EOS>
+<BOS> Exactly where I was yesterday in Toronto today at 6pm someone pulls out a gun and starts shooting ppl randomly. Scary. Want to fly back fast <EOS>
+<BOS> Baidu gets 6% ImageNet top 5 error (prev state of art 6.6% by Google)  lessons: moar GPU, moar data aug, moar ensemble <EOS>
+<BOS> Solving puzzles all day for  @MSFTPuzz  , woo! <EOS>
+<BOS> my ulogme gave me an achievement badge for writing more code today than last 3 days put together. (& it's only 4pm - nice!) <EOS>
+<BOS> If it takes 10K hours to become an expert, then spending 50 years at 8hrday on a thing => can become expert at ~15 things. Not bad. <EOS>
+<BOS> Noticed ppl can be too "trigger happy" in throwing RNNs everywhere, when finite contexts (e.g. CNNs) work quite well in many situations. <EOS>
+<BOS> I put all the Google Glass winners (with location) on map:  (Twitter location description -> Google Maps API -> pin) <EOS>
+<BOS> Getting 3 Tesla K40's to train some ConvNets. Pretty excited (these are $5.5K GPUs each) <EOS>
+<BOS> Re-stumbled by a classic - "How to Write a Great Research Paper" <EOS>
+<BOS> Taking suggestions for things to read (non-fiction preferred) for my 1 week Xmas break. Anything anyone has been impressed by recently? <EOS>
+<BOS> Finally got my HTC Vive today. Especially like Audioshield; has to be one of the best things I've experienced so far. Quite a workout too <EOS>
+<BOS> Research in progress (GIFs for academics) is turning out to be my favorite destination for genuinely laughing out loud <EOS>
+<BOS> Neat, the CS231n 2017 lecture videos are now up:  I hear that was a lot of work :) great job  @jcjohnss  and  @syeung10 ! <EOS>
+<BOS> Manually classifying images into 1000 ImageNet categories since 9am (so ~7 hours now). My brain hurts. Am really good now though #forscience <EOS>
+<BOS> It will make for nice charts! But ok, in this case, maybe my guilt will overpower my love for datacharts. <EOS>
+<BOS> Doge meme (also try searching that on YouTube)  such curious. many fun. so internet. very confuse. wow. <EOS>
+<BOS> "A Contrarian View of MITx: What Are We Doing!?" - I like the drawn distinction btw education and training. <EOS>
+<BOS> I really want to make an app that tweets automatically. But tweet about what? Hmmmmmm <EOS>
+<BOS> Is this an intrinsics calibration procedure for the visual system? Pretty cool! <EOS>
+<BOS> Quite painful to think about our impact on the planet. In Thailand saw pristine beaches littered with plastic bottlesjunks. 1110 tragic. <EOS>
+<BOS> We approach problems (eg Go) with cognitive proscons and that constraints us to some policies. Different proscons give different policies. <EOS>
+<BOS> (obligatory Elon Musk interview link) video of interview when receiving ENCORE award tonight: <EOS>
+<BOS> 51 startups from YC W17 Demo day 2  A lot of cool stuff! Like Peer5, Zestful, KidPass, Voodoo, Wright <EOS>
+<BOS> Do I get to complain multiple times about how much work putting together notesvidsassignments for an ambitious new class is? No? Okay fine <EOS>
+<BOS> Me at 1am: "just few minutes of Civilization 5". 5hrs later: crushing opponent civs with Nuclear Missiles and Giant Death Robots #everytime <EOS>
+<BOS> 10 Papers from ICML and CVPR  nice roundup! <EOS>
+<BOS> Gill Pratt (PM @ DAPRA) on "Is a Cambrian Explosion Coming for  Robotics?"  [pdf] about trends in robotics <EOS>
+<BOS> My phone is currently sucking up iOS7 from thin air. 1 <EOS>
+<BOS> Gradient checking neural nets is hard, with many amusing subtleties. Updated my cs231n section on it; Now quite long <EOS>
+<BOS> This was result of my frustration with going through papers on the NIPS site  thinking of more features now hmmm <EOS>
+<BOS> Well, the keynote is over. I can't help but feel a bit disappointed. There's been a huge gap btw iPhone 4 and 4S, and... meh. Meh meh meh <EOS>
+<BOS> Entertainment this morning: Justin Bieber arrest for DUI & browsing random beliebers' tweets: "The one who saved millions needs saving" lol <EOS>
+<BOS> SIGGRAPH Asia 2012 : Technical Papers Trailer  wishing more conferences made trailer highlights :) <EOS>
+<BOS> Jeff Bezos @ ISDC 2018 <EOS>
+<BOS> At CVPR, absorbing. <EOS>
+<BOS> An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale  v cool. Further steps towards deprecating ConvNets with Transformers. Loving the increasing convergence of VisionNLP and the much more efficientflexible class of architectures. <EOS>
+<BOS> Super excited for CS231n poster session this Wednesday at 2pm!  200 awesome projects from 300 awesome students! :) <EOS>
+<BOS> Computer scientists (my lab) have descended on #BRAvsGER 3 <EOS>
+<BOS> Autocompletion with deep learning  very cool! I tried related ideas a long while ago in days of char-rnn but it wasn't very useful at the time. With new toys (GPT-2) and more focus this may start to work quite well. <EOS>
+<BOS> Maker Faire : Quite overwhelming! Would need days to absorb all the cool things <EOS>
+<BOS> Today I wrote Python, Javascript, HTML, Matlab code and now I'm writing C++. Many, many weird syntax errors :S #needbreak <EOS>
+<BOS> "Graduated with a degree in Physics. What now?" On Reddit makes me glad I didn't continue in physics... nervous laugh  <EOS>
+<BOS> Wow, SpaceX' grasshopper rocket can now hover at 40m and land back all vertically!! Video:  awesome! 2 <EOS>
+<BOS> Whoa spotted Tim Cook just hanging out at my local Starbucks, typing away on his iPad. #nobigdeal 1 <EOS>
+<BOS> Foxconn aims to replace 1mil humans with 1mil robots. First batch of 10,000 has arrived.  Interesting. <EOS>
+<BOS> Started reading "The Martian". Only ~10% in but really enjoying it, easily places in my top few scifi so far. It's not afraid to get nerdy. <EOS>
+<BOS> Hah: Follow Tesla Model S customer drive across the US on his blog :) <EOS>
+<BOS> 1. find a compute-intensive problem that needs solving oftenfast, 2. train a large neural net on problem instances 3. ??? 4. profit. <EOS>
+<BOS> Applying for student visa to US: I had to spend several hours on many websites, but process boils down to 4 steps. facepalm <EOS>
+<BOS> cash cats  26 pages of pictures of cats with money. Oh, internet... <EOS>
+<BOS> SpaceX CRS-6 at T-5 min to launch. Will recover first stage at ~T+9min. Live stream  & reddit: <EOS>
+<BOS> That moment when you suddenly smell bacon <EOS>
+<BOS> Yes, imo much performance of neural nets across the industry is becoming upper bounded by large-scale data to pre-trainfinetune from, not algorithms (they are largely knownpublished and often available as open source) or compute (available in cloud). Andrej mentioned a great idea yesterday.. A room for a non-profit that does large-scale dataset curation + maintenance & figuring out legal issues like creative commons. Ex: recreating an open-version of 400M img-txt pairs of CLIP. cc: @gwern, @theshawwn, @arankomatsuzaki. twitter.comkarpathystatu… <EOS>
+<BOS> Lol, helping this bio student use Computer Vision to track fish in tank, except they evolved pigmentation to blend with environment #badidea <EOS>
+<BOS> 2 hackathons for Google Glass early developers announced for Jan28, Feb1. Glass will use REST API (language indep.) <EOS>
+<BOS> Which I'll say is rather naively ambitious 1 <EOS>
+<BOS> Sad to witness the hype curve of MOOCs playing out. Pivoting, steering, ideology and economics. <EOS>
+<BOS> Naivety aside, I will probably buy. But there will be a tear in the corner of my eye <EOS>
+<BOS> A Peek into Einstein's Zurich Notebook  interesting read, glimpse into how theory of GR developed <EOS>
+<BOS> Cool, informative, non-mambojambo brain talk: "Neil Burgess: How your brain tells you where you are"  #TED <EOS>
+<BOS> Does anyone have an effective solution for keeping track of papers? E.g. Mendeley but something better, preferably web-based, open source? <EOS>
+<BOS> William Shockley on what makes a person who publishes a lot of papers (and the superstar researcher system) <EOS>
+<BOS> Not exactly sure why, but I spent last 3 hours watching people play games on twitch.tv . It's kinda fun, you get to chat with others during <EOS>
+<BOS> Thanks for the link! TIL: "Shepard Tone", the musical illusion that monotonically builds tension In Dunkirk, composer Hans Zimmer crafted his soundtrack around one chilling effect — and it's an auditory masterpiece. <EOS>
+<BOS> Elon Musk is retweeting today's Wired article about my struggle to compete against Google ILSVRC ConvNet. Now I just have to keep it cool. <EOS>
+<BOS> In a visit to CMU, Obama Commanding Robot Revolution, Announces Major Robotics Initiative  via  @AutomatonBlog <EOS>
+<BOS> About success: Interesting way of looking at it: "How to Increase Your Luck Surface Area" <EOS>
+<BOS> Spotted on HN: "Amazon Picking Challenge: Win up to $26,000 and eliminate 30,000 jobs at Amazon" <EOS>
+<BOS> Ahhh, Onion :D Supreme Court On Gay Marriage: 'Sure, Who Cares'  via  @TheOnion <EOS>
+<BOS> Compile CC++ into HTML with Emscripten. Yeah you read that right   bit more from John Resig: <EOS>
+<BOS> History of AI infographic pretty neat, reasonably accurate <EOS>
+<BOS> Nurdrage's awesome chemistry YouTube channel cremates a cockroach with KClO3  :O <EOS>
+<BOS> Google Earth Timelapse: see 1984 -> 2016  extremely depressing. cancer cities, massive deforestation, ice melting <EOS>
+<BOS> I'm back from mini-vacation! Also, I'm very very jealous of Robert Scoble's computer setup.  World at your fingertips.. <EOS>
+<BOS> I'm releasing a project on github that aims to speed up academic literature review with Machine Learning. repool: <EOS>
+<BOS> A super boring evening :D <EOS>
+<BOS> Still more more #icra2013 robots (phew!) <EOS>
+<BOS> Mercedes-Benz self-driving car  apparently not only 3D rendered, also spotted in SF <EOS>
+<BOS> Salman Khan's new book describes a new type of schoolcollege. toRead.append() <EOS>
+<BOS> “The Bitter Lesson” by Sutton, on the longevity of domain knowledge in algorithms. Also apparent if you skim through old AI journals. <EOS>
+<BOS> More RNNs composing music by  @maraoz :   nice results here <EOS>
+<BOS> I really like this new trend in commercials from startups. Check out Dollar Shave Club <EOS>
+<BOS> Might look scary now but going forward we'll only keep stackingunrolling these further. I wonder what nets in few years will look like <EOS>
+<BOS> [New blog post] Quantifying Hacker News with 50 days of data <EOS>
+<BOS> What it looks like inside Amazon  neat <EOS>
+<BOS> Research priorities for robust and beneficial artificial intelligence [pdf] <EOS>
+<BOS> Someone thought it would be hilarious to send email with "test" to all CS Stanford students mailing list. Now it's a party of reply-alls :S <EOS>
+<BOS> EVE Online’s Battle of Asakai: who was involved, the stakes, and the aftermath <EOS>
+<BOS> What do I like the least about research? All the politics... <EOS>
+<BOS> Added a new demo to minGPT that trains a GPT on pixels of CIFAR-10 images instead of text. Quite powerful that one can run the same training codemodel on both domains. Notebook:  . Produced reasonable samples after ~only 30 minutes on an 8-GPU V100 node: <EOS>
+<BOS> Calling it now: in 1 year: FB in talks to acquire Yo at $10B valuation. Talks fail. 2 months later: FB pushes new app "Hey". Noone cares. <EOS>
+<BOS> Sergey Brin is driving around in a Tesla Model S dressed up to look like a Batmobile  #awesome #siliconvalley <EOS>
+<BOS> Stanford AI Lab is offering a new 2-week Summer Outreach program aimed at 9th grade girls to encourage interest in AI <EOS>
+<BOS> Wish I had access to stuff like this when I was studying Graphics in Undergrad :( 1 <EOS>
+<BOS> most common neural net mistakes: 1) you didn't try to overfit a single batch first. 2) you forgot to toggle traineval mode for the net. 3) you forgot to .zero_grad() (in pytorch) before .backward(). 4) you passed softmaxed outputs to a loss that expects raw logits. ; others? :) <EOS>
+<BOS> Talk coming up soon: Pawan Sinha from MIT on "Learning to See late in Life" (Project Prakash) interesting stuff  1 <EOS>
+<BOS> I like this: "Low-Power Image Recognition Challenge" it's like ImageNet challenge but focus on good power consumption <EOS>
+<BOS> Haha, when I get a call my iPhone lights up, iPad on my desk lights up, Macbook lights up, (Apple watch used to light up)... Complete chaos <EOS>
+<BOS> Late to the party here, but this a very funnysad and honest report on DARPA VRC Robotics Challenge Qualifier round <EOS>
+<BOS> SIGGRAPH 2012 : Technical Papers Preview Trailer  Looking forward to SIGGRAPH this year! <EOS>
+<BOS> Playing around with Variational CNN Autoencoder on ImageNet, samples @ epoch 7 below. Reparametrization trick is neat <EOS>
+<BOS> MATLAB experiment ran since the morning. It was almost done when I wanted to minimize it, but accidentally clicked the 'X'. #FML <EOS>
+<BOS> Dash: A DIY cheap, bio-inspired cockroach-like robot: crowdfunding campaign  looks fun <EOS>
+<BOS> I ruined a really good song yesterday. Listened to it on loop while coding, and today I feel nothing. I've squeezed it out. very sad. <EOS>
+<BOS> My tweet on Google Search mock-up ( went crazy viral. Btw it is response to  Also I <3 Google <EOS>
+<BOS> Installing new machines on our data center! Can't wait to go up and take them for a spin <EOS>
+<BOS> Nomadic Ambience channel is hours of stunning wallpapers packed into videos :|  (but advise watching in Incognito because hours of watch time on background get YouTube recommendation algorithms overexcited) <EOS>
+<BOS> On subject of education, Elon mentioned: 1. should be more gamified, 2. Lectures should be produced much more like Hollywood movies <EOS>
+<BOS> Amusingly, my labmate Justin Johnson just released cnn-vis on Github ( reproducing Google's #inceptionism results. <EOS>
+<BOS> Oh oh, I've opened Pandora's box. Now that I can easily go to Matlab &back from C++ my .cpp files are flooding w Matlab code! #tooconvenient <EOS>
+<BOS> Canada's Former Defence Minister Claims that Aliens Are Real (but he's been at it for ~40 years). But fun read ;p <EOS>
+<BOS> Why are there only 24 hours in a day??? I need more time! :(( <EOS>
+<BOS> LinkedIn launches Classmates: Alumni statistics for your connected. Well executed, smart move. <EOS>
+<BOS> We're hiring strong MLCVRoboticists for the Tesla Autopilot Vision team. We ship autonomy at scale. Join us: vision@tesla.com <EOS>
+<BOS> New group of ppl could brag about how they engineered features back in late 2000's, and how it didn't work then because X but now... <EOS>
+<BOS> I bought a game on Steam for $59.99 and it just crashes on startup. Well, that was fun <EOS>
+<BOS> A group of girls took a very passionate photo right in front of our Computer Science department, all pointing at the sign. I'm confused <EOS>
+<BOS> I cannot believe this. Somehow AlphaGo losing today must be optimal for winning more frequently over next few thousand years. <EOS>
+<BOS> Interactive 3D Graphics Udacity class now has videos up  this looks really nice & polished! <EOS>
+<BOS> Finished Black Mirror season 3. Favorite eps: 6 > 1 > 4 > 5 > 2 > 3. Black Mirror is sadly too relevant today. <EOS>
+<BOS> GANs seem to improve on timescales of weeks; getting harder to keep track of. Another impressive paper and I just barely skimmed the other <EOS>
+<BOS> Oh oh, I'm at a high risk of game addiction, having played a bit of RimWorld last night  This can't be happening! <EOS>
+<BOS> Also, a nice talk on responsive programming:  that shows more of what is possible with this paradigm <EOS>
+<BOS> Cool interactions shown in this video. Research + 3D interaction + Oculus Rift.  neat, sign of things to come <EOS>
+<BOS> Great my Wordpress blog suddenly contains stealthy links to viagra. No idea how. Probably going to stop self-hosting and restart elsewhere <EOS>
+<BOS> There are infinitely many pairs of primes separated by at most 600. On quest to twin prime conjecture  great article 1 <EOS>
+<BOS> "Prior methods use ugly heuristics. We use fancy joint objective.. Btw it's NP hard, we use greedy search for inference" #hypocriticalpapers <EOS>
+<BOS> Two records in Rubik's cube established on same day, now 4.90s. Fun to watch reaction in vid. I miss speedcubing :\ <EOS>
+<BOS> Here is also a good Wired article on Form 1 with comparison Replicator 2  and good HN discuss <EOS>
+<BOS> “Better air is the easiest way not to die” It is very likely this is not getting enough attention dynomight.net Better air quality is the easiest way not to die Why the air you breathe matters, and what to do about it. <EOS>
+<BOS> labhacks tumblr  . Especially "The $25 scrunchable scientific poster"  brilliant labhacks. <EOS>
+<BOS> Excited about Peter Thiel's cs183 class!! Woo 1 <EOS>
+<BOS> Berlin Summit on Robotics report gives overview of state of Robotics, reflections and what's needed for progress  [PDF] <EOS>
+<BOS> Reminiscences of the VLSI Revolution: How a series of failures triggered a paradigm shift in digital design <EOS>
+<BOS> China successfully landed on moon (after 40 year pause), snapped a few pictures, somehow this is barely reported on <EOS>
+<BOS> Turns out Linear Classifier achieves ~3% accuracy on ImageNet. & don't miss 1000 learned ImageNet class templates <EOS>
+<BOS> I'm (slowly) writing another short story on AI that I'm super excited about. Except I've been stuck on one passage for a few months. Hard :( <EOS>
+<BOS> Some highlights from PyTorch DevCon: PyTorch 1.3   named tensors, type promotion, quantization, mobile support, full notes  + TPU support, Detectron2  "each time they rewrite it they get an accuracy boost" :D <EOS>
+<BOS> CVPR 2014 reviews are out! After reading mine I'm cautiously optimistic 1 <EOS>
+<BOS> Hmm, I wish there was a "show me an Ad" button somewhere that I could press when I'm feeling this grateful <EOS>
+<BOS> Cool slides on future of Virtual Reality from Michael Abrash from Valve  future can't be here fast enough <EOS>
+<BOS> "How I Gave Up Alternating Current"  Rob (behind Soylent) on transitioning house to only use 100W from solar panel. <EOS>
+<BOS> Tried out a little TOO immersive virtuality reality helmet at SIGGRAPH that hilariously activated my survival instincts <EOS>
+<BOS> Note to self: do not file tax return on deadline day. Unless you like to stress and long lines. 1 <EOS>
+<BOS> Wrote up some thoughts on VR (long interest of mine) in a blog post: "Virtual Reality: still not quite there, again" karpathy. <EOS>
+<BOS> Solar Panel Cost Trends  these trendlines all look reeeally nice <EOS>
+<BOS> Knot theory is crazy  Incidentally, knot theory forms the core of a set of short stories I'm working on about magic ;p <EOS>
+<BOS> I wonder if this would be a good time to ask for a free Model S. <EOS>
+<BOS> It's adorable of YouTube to put those "Play All" buttons everywhere, as if an average YouTube video was actually worth watching. Haha <EOS>
+<BOS> Now off to home to overdose on icecream, watch 12 Years a Slave, and play Diablo 3 :( <EOS>
+<BOS> Common usage: "I thought I was totally starting to overfit at epoch 17, but there is still hope.". "You need to control your loss addiction" <EOS>
+<BOS> Iguana hatchling vs Snakes  quite possibly the most incredible nature video ever made, by a margin. Any other candidates? <EOS>
+<BOS> Deep Learning is a form of human-assisted but mostly constraint-driven software development. It works because a particular smooth relaxation of program space allows a surprisingly efficient and effective local search. Something like that, my favorite definition. <EOS>
+<BOS> Yesterday total time thinking about getting a $27 zipcar for groceries trip: 0.1 seconds. Total time spent obsessing about 27 $1 apps: hours <EOS>
+<BOS> I ran for 20 minutes yesterday and burned 260 cals. That's 11 square blocks of my favorite chocolate in our microkitchen. cruel world :( <EOS>
+<BOS> Greg is easily the most productive person I know. And across a wide breadth of tasks. And by a very wide margin. +1 <EOS>
+<BOS> Finished Stanislaw Lem's "Fiasco" yesterday; review:  Properly done hard sci-fi, looking around for more like it <EOS>
+<BOS> I spend more time browsing Netflix than watching Netflix <EOS>
+<BOS> I watched one random video about a Snake playing dead I found on Reddit and now YouTube keeps surfacing gory snake wound videos. #mlfail <EOS>
+<BOS> Really, running this chunk of code used to mean a coffee break. Now it's 3 seconds. I am happy and sad at the same time <EOS>
+<BOS> Netherlands and France share a border but only in Carribean, as I learned in this awesome video by  @cgpgrey  (mancrush) <EOS>
+<BOS> I LOVE IT: Blueseed Project To Overcome Immigration Bureaucracy By Building Startup Incubator In the Ocean <EOS>
+<BOS> I watched What does the Fox say and now it's stuck in my head again. It's like the ultimate brain virus <EOS>
+<BOS> Also very useful for debugging. This is not as well-known as it should be 1 <EOS>
+<BOS> Neural Nets dreaming natural images  , about the recent FAIR paper. Adversarial nets sound quite tricky to train <EOS>
+<BOS> Heading out to Boston for CVPR! In case it's useful & you missed it - this year's accepted papers in pretty format: <EOS>
+<BOS> Mojang (Minecraft) and Microsoft. These two are not even remotely in the same part of my brain. Reminiscent of Oculus FB acquisition. :(( <EOS>
+<BOS> char-rnn implemented in Tensorflow  haven't tried running, but looks nicecompact. <EOS>
+<BOS> Numenta published some code for their binary sparse online prediction models on Github #toskim <EOS>
+<BOS> Just want to give a random shoutout to the excellent Papers With Code   (&  @paperswithcode ) for a wonderful resource linking papers, benchmarks and code together. A core challenge being that individual papers are too atomic. <EOS>
+<BOS> Unbelievably real rendered images  Looks like Computer Graphics Rendering is solved. Nice job, guys <EOS>
+<BOS> I can't remember how I lived with Uber. What do you do if you want to get from some A to some B without it? <EOS>
+<BOS> Google science fair happening today! Had some serious intelligent discussions with high schoolers. Super impressed <EOS>
+<BOS> My iPhoneX switch has turned out to be a UX regression: - Face ID doesn't work: when phone is on table next to me. when I try to check it from bed in am hours. halfway through a yawn. leaning on my hand. - Often accidentally swipe to camera when I play with the phone in my hand <EOS>
+<BOS> Google Wave looks interesting... but I'm worried that its trying to do too much-- It looks a little too ambitious and too easy to abuse. hm <EOS>
+<BOS> Pretty awesome: edited video footage of Google Glass - wearing modelsorganizers from New York Fashion Week <EOS>
+<BOS> Was recommended a really nice podcast: NPR Intelligence Squared, featuring great oxford style debates on politicaleconomic issues <EOS>
+<BOS> 6 years of my research journalnotessketches. Very glad I keep them: lot of fun to flip back and see ideas develop <EOS>
+<BOS> Grasp detection Kaggle winner with Recurrent ConvNets  I missed their cvpr paper ( looks neat <EOS>
+<BOS> So coool: Recurrent Net learns to play "Neural Slime Volleyball" in JS   I can't beat it... Lost 20-0 blog.otoro.net 大トロ ・ Machine Learning Neural Slime Volleyball <EOS>
+<BOS> Hey, I actually like Windows 7! Smooth installation, all hardware detected, no problems at all. Nice! <EOS>
+<BOS> Neuron: patterns of X-chrom. inactivation (use of paternal or maternal copy) in female mice  not simple Bernoulli r.v. <EOS>
+<BOS> The latest entry in turning ImageNet into MNIST: 75.8% top-1 test accuracy with ResNet-50 (90 epochs) in 6.6 minutes using 2048 Tesla P40 GPUs  64K "mini"-batch size, mixed precision training, LARS, BN&bias weight decay at zero, custom all-reduce <EOS>
+<BOS> Alright, now that official post is up: Welcome to Google+  btw, it's awesome! <EOS>
+<BOS> Omg STEVE! DONT DO IT 1 <EOS>
+<BOS> Not publishing code with papers is not sufficiently looked down on by CS community <EOS>
+<BOS> I'm powering through "The Count of Monte Cristo" by Alexandre Dumas. Bit of departure for me but I like. Fun, eloquent language, good story <EOS>
+<BOS> So, future cloth will be self cleaning, self repairing, and will have solar powered battery diffused through it. Fun to think about :) <EOS>
+<BOS> At lunch. Some ppl next table discussing their QM research & nature of reality. I'm worried about detecting broccolis in images. Feeling bad <EOS>
+<BOS> More generally, it's a Deep Learning library written purely in Javascript, mostly for amusement. Been hacking on it over xmas break. <EOS>
+<BOS> Johnny Lee (yes, Wii hack one) gave awesome keynote at Embedded workshop on Project Tango. As my friend put it, "he's ultra-knowledgeable" <EOS>
+<BOS> Are you at ICLR? Join us at the OpenAI party 6-9 tonight at Palmeras (Caribe Hilton) <EOS>
+<BOS> I think when it comes to Coursera I'd rather take a class based on the instructor and how much time they put in rather than the topic <EOS>
+<BOS> - "Siri, I'm bleeding real bad, call me an ambulance!!" - "Okay, from now on I will call you 'an Ambulence'" <EOS>
+<BOS> Just discovered that this older nice man who I was helping set up a printer in our hallway is a Turing Award winner :\ <EOS>
+<BOS> Popular Science shutting off comments because they are so terrible  3 <EOS>
+<BOS> "Personally, I do not trust paper results at all. I tend to read papers for inspiration" A correct rant. <EOS>
+<BOS> I also wrote up a fast blog post that documents the creation of the t-SNE demo  (a little technical though) <EOS>
+<BOS> Deep Learning Master Class in Tel Aviv from Nov5,6  (slides+videos) <EOS>
+<BOS> Observing raw web server traffic is fun. Seeing ~frequent requests to (non-existing) phpmanager, sqlphpMyAdmin, etcetc. probing bots. <EOS>
+<BOS> Gabe Newell does an AMA  ignores question about Half Life 3. :'( It's never happening is it? <EOS>
+<BOS> Funny that I wrote it so long ago that re-reading it feels foreign, and like something someone else wrote that I enjoyed reading :) <EOS>
+<BOS> Sad story about high lead discovered in water of Flint  wider story on failure of academia's incentive structure <EOS>
+<BOS> Neat talk by Geoff Hinton  "STDP is the signature of backprop using temporal derivatives as error signal". hm. <EOS>
+<BOS> Browsing the web, 2021 <EOS>
+<BOS> AMA with Yann LeCun (Deep Learning pioneer, director of Facebook AI Research, prof at NYU) going on today: <EOS>
+<BOS> Local news from Mission SF  each time: "[something terrible] @ [a place I walk by all the time]. no arrests made." <EOS>
+<BOS> We set $\alpha = 0.1$ because that's the only number we had time to try and it seemed to work okay #honestpapers <EOS>
+<BOS> Ideal article structure: 1. best arguments for some statement X. 2. Best arguments against. 3. (optional) author's opinion + justification <EOS>
+<BOS> Related links thx reddit: The Void  and Zero Latency  "Future arcades will be awesome." <EOS>
+<BOS> Wafer-scale deep learning, Cerebras presentation at Hot Chips 31  &  46,225mm^2 chip running at 15kW <EOS>
+<BOS> Things that playing hours of Civilization 5 has taught me: <EOS>
+<BOS> Adding to my to-read list: "Sustainable Energy — without the hot air", by the awesome David MacKay. (free book!) <EOS>
+<BOS> Oh crap 5am. Was working on a pretty epic Machine Learning + Javascript endeavor, will release tomorrow :) I'll sleep on it first <EOS>
+<BOS> Ok this video of new Furby is better.  now want more  1 <EOS>
+<BOS> Once we squeeze out all the juice from ImageNet, not sure what's next. There isn't a bigger, open, challenge-style dataset. Or detection? <EOS>
+<BOS> As I approach ICCV paper deadline on Friday, my TODO list is getting monotonically longer, not shorter :S #depression #anxiety #sorrow <EOS>
+<BOS> Sous Vide cooking gastronomy!  (trying coffee recepi with  @kenstruys  . Will double blind compare to regular coffee) <EOS>
+<BOS> Spent 1am-9am on Diablo 3, leveled my monk Sigmoid to 24. Excellent game. Blizzard delivered. <EOS>
+<BOS> TIL Chess boxing is a thing  1 <EOS>
+<BOS> example: mitt romney - experience + celebrity = Sarah Palin, apparently. lololololol <EOS>
+<BOS> Measuring the Progress of AI Research  looks quite comprehensive! <EOS>
+<BOS> It doesn't work. May need more tuning, but I'm calling quits for now, will leave it train overnight. Godspeed flappy. <EOS>
+<BOS> CRS-6 weather is no go. Why would they do this to me <EOS>
+<BOS> I was going to skim it now at 2am but I think I have to come back for a full day & follow up on multiple links I wasn't previously aware of <EOS>
+<BOS> "Why the Future Doesn’t Need Us"  an essay from 2000 worth reading. <EOS>
+<BOS> "I ghostwrite Chinese students' ivy league admissions essays"  Nicely written, provocative article 1 <EOS>
+<BOS> #note2self add achievements. I want my own algorithm to give me badges for "Latex paper writing master", or "C++ mo-o-o-nster hack" and such <EOS>
+<BOS> Also here's link to Google+ event party for the sunday landing  So excite! I remember SpiritOpportunity land years ago <EOS>
+<BOS> It's like... a steam engine searching large mathematical expressions over a collection of paintings to extract what's in them? I give up <EOS>
+<BOS> Wow, woke up to lots of traffic from The Verge, Gizmodo, Kotaku, and TwitFaceG+. I should do more evening hacks. <EOS>
+<BOS> Robots can now play Ping-pong :D impressed  2 <EOS>
+<BOS> Guess what im working on today... :) 1 <EOS>
+<BOS> Curiosity found something using its SAM, needs time to double-check. "This data is gonna be one for the history books" <EOS>
+<BOS> Neat research on how people respond socially to roomba trash can  also reminds of reactions to kicking Atlas robot <EOS>
+<BOS> Play it again: reactivation of waking experience and memory; Hippocampus-cortex sync is one of coolest neuro findings <EOS>
+<BOS> Peter Norvig on "Machine Learning for Programming"  tldr programming could use Much more ML. Like everything else <EOS>
+<BOS> I find it unnerving that at any point in a lecture and for anything you may say, some people are confused and some people are bored. :( <EOS>
+<BOS> What, there's an article on how to avoid lines for the 5S. #backwards :p 1 <EOS>
+<BOS> It's actually annoyingly well-made. I spent many hours acquiring the picture in my head, and here it is nicely explained in 10 minutes. ugh! <EOS>
+<BOS> Oh wow,  @elonmusk  just gave a 1.5hr talk at Oxford on Future of Energy and Transport  yesyeyseyses <EOS>
+<BOS> Maybe  got hacked? I can't explain this any other way 1 <EOS>
+<BOS> Yay first day of school at Stanford!! still get really excited even though nothing changes for me anymore day-to-day #nostalgia <EOS>
+<BOS> Number of times I had to open Notepad, CTRL+C, CTRL+V there, select all, CTRL+C, open other app, CTRL+V to lose formatting: 1000000000000000 <EOS>
+<BOS> Alright, finally got time to read through Glass Mirror API, and I can now send arbitrary HTML to my face with 1 line of Python. Now what :p <EOS>
+<BOS> Uuuu I like this: Finger painting  who knew you could find cool things on reddit other than advice animal memes? <EOS>
+<BOS> What's next, a CNN solving 3SAT as binary classification by taking as input a rendered image of the problem instance? <EOS>
+<BOS> "top notch deep learning framework such as MatConvNet or Soumith Chintala" :D:D. Ok have to stop quoting, there's too much... <EOS>
+<BOS> Interstellar was neat and intense. Except for one comment from Anne Hathaway's character about love as force similar to gravity in universe <EOS>
+<BOS> The intro chapter of the Deep Learning book has a nice and thorough exploration of history and trends <EOS>
+<BOS> Got invited for Diablo 3 closed beta!!! I don't care about how the brain works anymore. Brb in ~40 hours <EOS>
+<BOS> I'm drawing recursive tree drawing programs on Khan Academy CS sandbox  because it's not like CVPR is due very soon <EOS>
+<BOS> NeuralTalk Image Captioning run over videos with some fun results. A post:   & video: <EOS>
+<BOS> Btw, my poisonous mushroom classifier app idea tweet was a joke. That's a horrifying proposition. Replies tell me this wasn't obvious :p <EOS>
+<BOS> Video of SpaceX Falcon 9 first stage exploding in failed attempt to land on drone ship <EOS>
+<BOS> My rubiks cube solving while juggling friend made it to front page of Reddit today!  I knew him before he was cool <EOS>
+<BOS> Isaac Asimov predicting MOOCs ( @coursera  etc.) 20 years ago: <EOS>
+<BOS> There are almost 2,000 people on our image - sentence generation website right now, including 1,000+ from Reddit but I can't find the source <EOS>
+<BOS> Our lab released a new dataset we've worked on for a while (e.g. 4.3 million region captions). Glad to see it out Visual Genome: a dataset, a knowledge base, an ongoing effort to connect structured image concepts to language. <EOS>
+<BOS> Contrast that with an approach that tries to map the pixels with a feedforw function into a latent space where the two rotations are close <EOS>
+<BOS> CVPR attendees unanimously amused as they woke up early to go to deep learning workshop just to discover that its room sits about 100 people <EOS>
+<BOS> You know how I was making fun of urinal etiquette yesterday? There's actually a paper on this! The Urinal Problem <EOS>
+<BOS> RL works so poorly that finite differences are only ~10x worse. & much simplermore scalable. New paper from OpenAI: <EOS>
+<BOS> It is starting to look like deep learning workflows of the future feature autotuned architectures running with autotuned compute schedules across arbitrary backends. I don't know if I should be excited or scared. <EOS>
+<BOS> Stanford will be offering many more online classes, such as NLP class  (scroll down for more) next quarter. Nice! <EOS>
+<BOS> Amusing! Object detection cast naively into language modeling framework + borrowing many of the tips&tricks. - random object ordering seems fine  - coords, class labels flattened into a single softmax  - sequence augmentation is the most gnarly part, almost as yucky as nms  Have you wondered why object detection, unlike classification, has so many sophisticated algorithms?  With Pix2Seq ( we simply cast object detection as a language modeling task conditioned on pixels!  (with @srbhsxn, Lala Li, @fleet_dj, @geoffreyhinton) <EOS>
+<BOS> Google Official Blog: Introducing our smart contact lens project <EOS>
+<BOS> And then almost certainly staying up overnight to finish ConvNets assignment for the class. Not ideal I suppose <EOS>
+<BOS> Fido, you have the WORST customer service. 40 minutes to get through the robot, and then you tell me you are closed. THANKS. #fido <EOS>
+<BOS> I can spend a week doing something that adds 1 sentence to my paper. And I can spend 1 day doing something that adds a whole page. <EOS>
+<BOS> Berkeley AI Research (BAIR) is launching a blog!  1st post from Jacob Andreas  @jacobandreas  on Neural Module Networks bair.berkeley.edu The Importance of Hyperparameter Optimization for Model-based RL The BAIR Blog <EOS>
+<BOS> Few days ago I gave a presentation to the Computer Vision Reading Group on my experience in ICRA 2013. Slides: <EOS>
+<BOS> My head may be starting to feel weird. Feels easier to zone out. Could be placebo. This is not as exciting as I thought it would be. <EOS>
+<BOS> Love it ty for link  @sanchom : paper on ranking tracking algs based on meta-review of multiple tracking paper results <EOS>
+<BOS> And another nice article in mxnet docs on training Inception-BN nets on full ImageNet (14M images, 22K classes) <EOS>
+<BOS> New Nature letter claims progress on Fusion yield  Don't really understand the paper though :\ I just cheer them on <EOS>
+<BOS> Emails from professors: subject line 2 words, body empty. If you're lucky, you get a period at the end. That means they really like you <EOS>
+<BOS> I really like Google+ but I can use it as Facebook and Twitter at the same time. I'm hoping to move there over time. STUPID 140 CHARS UGH <EOS>
+<BOS> I cataloged these in HN comments section  with pointers. I became aware of these works only last week & today. <EOS>
+<BOS> Wait, Twitter is collecting list of applications you have installed on your phone? Isn't that kind of outrageous? <EOS>
+<BOS> hacked together a quick flask webserver that lets you sort by similarsearch arxiv papers in a nice interface <EOS>
+<BOS> Touring Paris  vine.co Andrej Karpathy's post on Vine Touring Paris <EOS>
+<BOS> from CCV blog: tricks for running convnets on the phone <EOS>
+<BOS> Zoneout for regularizing RNNs  nice idea and fun title! except ~1 line of code difference and 11 authors? :) <EOS>
+<BOS> That something soundsreads like it was generated by GPT-2 is an interesting new kind of an insult. <EOS>
+<BOS> The "Whoa are you serious" award for an Appendix goes to "Self-Normalizing Neural Networks"  proposes "selu" nonlin <EOS>
+<BOS> BREAKING NEWS: Malaysian Flight 370 still not found <EOS>
+<BOS> btw, Civilization 5 is on sale on Steam for $7.49. Impossible not to purchase 2 <EOS>
+<BOS> Just a quick&short summary of my highlights from BAVM2012 (Bay Area Vision Meeting) that happened few days ago <EOS>
+<BOS> I like the Point Cloud Library, but docs are so sparse I spend 80% of my time in their source figuring simple things out by myself. Argh!! <EOS>
+<BOS> Touché: Touch and Gesture Sensing for the Real World  interesting concept, except for hilarious application at  1 <EOS>
+<BOS> Videos of the day from GoPro can be quite epic:  8,9Jan are nice. Use caution: #timesink <EOS>
+<BOS> Computer Vision Lenna's (amusing) story <EOS>
+<BOS> My hypothesis for why Pinterest is doing well: because what you post "sticks". Your efforts feel additive, they don't vanish behind "more" <EOS>
+<BOS> swarm of sFly Quadrotors autonomously navigate & reconstruct outdoor 3D scenes with stereo  Awesome <EOS>
+<BOS> the suspicious pretraining paper I tweeted about ~week ago was withdrawn  looks like they trained on test set... <EOS>
+<BOS> I feel so handicapped coming to lab at Stanford from Google work in evenings. What am I supposed to do with these few Matlab instances? <EOS>
+<BOS> Gave talk on "Automated Image Captioning with ConvNets and Recurrent Nets" 2 weeks ago at SF ML meetup, video is up: <EOS>
+<BOS> The libraryweb demos are basically me going down Richard Sutton's great (free) RL book  & implementing all the things <EOS>
+<BOS> Watched an unnerving video during presentation of a robot learning to move knife from one location to another while avoiding people. Tense <EOS>
+<BOS> Feed is abuzz with gravitational waves  but all I can think about is what it's like to live in Antarctica BICEP2 fac <EOS>
+<BOS> Haha, I minted my first (probably last? :)) NFT.  "Tapestry of terrestrial information processing"  cooool :) drawn on iPad + Procreate this morning <EOS>
+<BOS> Wow, actually found more than 10 awesome people to follow using my old Twitter recommend python script  Thanks old me! <EOS>
+<BOS> Papadimitriou's talk blew my mind.  Nature's secret sauce in evolution: sexual reproduction. Forces modular gene design <EOS>
+<BOS> Biking from Stanford to Google. At 4am. Here we go <EOS>
+<BOS> Ran some quick numbers on ICML accepted papers  Google "wins" ICML, involved in 10% of papers. ~25% are from industry karpathy. <EOS>
+<BOS> Learning HTML5 Canvas for my next side project. I like it a lot so far. Best set of tuts I found so far:  <EOS>
+<BOS> Sorry Windows 8, I don't know what you're trying to do here but the single one app I need is my Chrome browser. What is all this? Nice try <EOS>
+<BOS> On exciting news today: Windows 8 keynote and Facebook circles (gah, I mean lists) <EOS>
+<BOS> : Spin up instances, scale them updown on fly, collaborate live on them, share them with urls... dark magic. <EOS>
+<BOS> DE⫶TR: End-to-End Object Detection with Transformers  (+paper  awesome to see a solid swing at (non-autoregressive) end-to-end detection. Anchor boxes + nms is a mess. (I was hoping detection would go end-to-end back in ~2013) <EOS>
+<BOS> A comprehensive Kalman Filter textbook in format of IPython Notebook, on Github. Intriguing trend <EOS>
+<BOS> Okay, you can now sort by topics (and select multiple topics) wueee  #NIPS2012 papers <EOS>
+<BOS> Dendritic Computation > readingList.txt  1 <EOS>
+<BOS> How did I not see this coming: The iPhone’s fingerprint lock also works with toes and nipples <EOS>
+<BOS> It has not escaped our notice that the pairing we have postulated immediately suggests a possible copying mechanism for the genetic material <EOS>
+<BOS> SpaceX grasshopper another successful flight up to 325m + wind. Nice video recording from a Hexacopter! <EOS>
+<BOS> # of programs begging you to restart computer (WindowsMac) goes to infinity over time. I'd rather click "Not now" million times than yield. <EOS>
+<BOS> Spotted for first time in the wild-- Tesla Model S!!!! Omgomgomg so shiny 2 <EOS>
+<BOS> Yay, first time I deployed HITs to AMT! Surprisingly simple to do with my friend Justin's microframework simple-amt <EOS>
+<BOS> Pushed large changes to ConvNetJS to modularize entire code and made it all more legit. ok NOW I will actually do research. I think. <EOS>
+<BOS> Nicefun writeup from Ryan Dahl (of node.js fame) on his Google Brain residency  accurate assessments allaround <EOS>
+<BOS> LibSVM refused to parallelize with openmp threw seg fault tantrums, gave wrong probabilities, ignored class weights, etcetc... troublemaker <EOS>
+<BOS> Most of the work was done by Jia Deng and Olga Russakovsky, I contributed a small part (Section 6.4) that analyzes ILSVRC human accuracy <EOS>
+<BOS> For example the idea that each neuron could actually have computational capacity to be a whole 2layer neural network by itself is intriguing <EOS>
+<BOS> The code is not beautifully modularized so far and needs backprop understanding to use, but I'm too swamped with things to fix it right now <EOS>
+<BOS> Internet delivers. again. New cat meme makes you look bearded.  oh, internet... (via  @Mvandepanne  ) 1 <EOS>
+<BOS> Nice talk by John Leonard from MITCSAIL on self-driving cars and challenges <EOS>
+<BOS> RepVGG: Making VGG-style ConvNets Great Again paper:  PyTorch code:  Spells out the benefits of very simpleuniformfast (latency, not FLOPS) deployment architectures. A lot of complexity often due to optimization, not architecture. <EOS>
+<BOS> This year's Startup School videos are now posted (includes Zuck, TwitterSquare Jack Dorsey) <EOS>
+<BOS> A typical ~2GHz CPU will clock pulse every 0.5ns. Since the speed of light is ~0.3mns, light only traverses ~15cm (half a foot) in each pulse    :| <EOS>
+<BOS> Language: the serialization and deserialization protocol for transfer of (multidimensional) ideas via noisy 1D channel #howdoesthatwork <EOS>
+<BOS> I accidentally opened my dataset file with 'w' instead of 'r', which erased everything. This is why you don't code when tired. One char. <EOS>
+<BOS> Someone on HN wrote nice comment on approaches for recovering a rocket intact for reuse  wish i knew more about this <EOS>
+<BOS> Reddit is revolting the banning of 5 subreddits by Ellen Pao  I'm getting my pitchfork and popcorn. <EOS>
+<BOS> Spent 3 hours debugging that I had accidentally written "v = + blah(x)" instead of "v = v + blah(x)". #programming #sanity <EOS>
+<BOS> We see more significant improvements from training data distribution search (data splits + oversampling factor ratios) than neural architecture search. The latter is so overrated :) <EOS>
+<BOS> Working through Information Theory changes you. Makes me very conscious of how surprising (informative) everything I say is to others. <EOS>
+<BOS> YouTube channel redesigns only get worse, worse, and when you think it can't possible get worse, it does in next update. Just terrible. <EOS>
+<BOS> When YouTube video ends and automatically and right away transitions to the next one #facepalm #deepbreaths <EOS>
+<BOS> Excited because I think in principle prediction can be to very large extent completely automated. This is just first small step that way <EOS>
+<BOS> "Cat Basis Purrsuit" : Representing faces as linear combination of cats  Hilarious :D (via  @quantombone  ) <EOS>
+<BOS> Yann LeCun on Alex Krizhevsky's Imagenet+Deep Learning results & good discussion (also featuring Alyosha Efros) <EOS>
+<BOS> Solve for X  don't miss some of these videos <EOS>
+<BOS> It's 4am, I'm at Google hacking and I hear soft child singing noises from below. I will NOT investigate. Also, I'm a bit freaked out by this <EOS>
+<BOS> List of unsolved problems in physics en.wikipedia.org List of unsolved problems in physics - Wikipedia <EOS>
+<BOS> Following World Chess Championship a bit. All 7 games so far were draw ( 8th live stream: twitch.tv ChessNetwork - Twitch My name is Jerry, and I'm a self-taught National Master in chess from Pennsylvania, USA. Streams usually consist of playing speed chess with commentary, playing viewers, commentating tournaments, and... <EOS>
+<BOS> Trying to release all my C++ code for my last project. Turning out to be huge pain in the ***. But i'll do it, For science. :( <EOS>
+<BOS> People aren't anywhere nearly enough scared shitless about the world's aging nuclear arsenal and its problems <EOS>
+<BOS> ... so if our eyes could see in the MHz range, would things be relatively dark and our phones would be little pocket lamps? <EOS>
+<BOS> Stanford CS Course Schedule Autumns 2020-2021  I feel devastated and embarassed that I don't know everything here <EOS>
+<BOS> Very nicely done  @yoavgo : A Primer on Neural Network Models for Natural Language Processing <EOS>
+<BOS> Now that it has a domain name it's a certified serious project :) <EOS>
+<BOS> I hacked together  today. It pulls all (884) COVID-19 papers from bioRxiv  medRxiv ( and makes them searchable and sortable. Most important is "show similar", which uses tfidf exemplar SVMs. +Open sourced on Github under MIT license <EOS>
+<BOS> I'm not thankful for Thanksgiving at all. Everything is closed and I'm forced to eat Pop Tarts from machine downstairs <EOS>
+<BOS> Watched Neils' Cosmos ep 1. Disappointed that his spaceship makes "whoosh" sounds when it travels past camera. In space. tsk tsk tsk #cosmos <EOS>
+<BOS> Awesome Awesome science YouTube channel: Veritasium  Warning: MAJOR timesink! (also check they're recommended channels) <EOS>
+<BOS> Goldilocks zone for amount of water for my pet plant HashBang seems very narrow. I don't want to kill a plant but it's not doing well :( <EOS>
+<BOS> Playing around with RCNN current State of the Art Object Detector (lots of example predictions) <EOS>
+<BOS> To get neural nets to work one must be super-OCD about details. With bugs nets will train (they "want" to work), but work silently worse. <EOS>
+<BOS> Then continues as "So called deep learning which started at Microsoft and is now being used..." - "Started at Microsoft". Not... quite <EOS>
+<BOS> I see Posterous deleted my old comics blog (sigh!) so I'm starting new one on Tumblr:  First post: "I Regret nothing" discreteuniverse. <EOS>
+<BOS> I like my new shiny Chromebook pixel Google gave me for internship. Really nice high-res screen. My usual screen suddenly looks very ugly <EOS>
+<BOS> Which style of drawing residual networks is semantically superior? 1: residual connection on the side of the layer or 2: layer on the side of the residual connection? Imo there is a correct answer and I feel strongly about it. <EOS>
+<BOS> Steve Wozniak (while discussing Siri and the future): "Google is a Search Engine, I don't want a search engine. I want an Answer Engine. " <EOS>
+<BOS> There's added things (DQN), and sketches of Policy Gradient methods (stochastic and deterministic). Except they are tricky to get working <EOS>
+<BOS> Nick Lane's books are So. Good. <EOS>
+<BOS> There are 10 kinds of people: those who understand binary, those who don't, and those who didn't expect this joke to be in base 3. <EOS>
+<BOS> Truth in advertising: very funny, you will like it if you haven't seen it before  Warning: NSFW language <EOS>
+<BOS> Biotech is so much more powerful than our Normaltech. Imagine if we could tap its full potential; maybe your car could just heal itself of any scratches. Or it could give birth to your new car. And then you could feed the old one to your house. <EOS>
+<BOS> Direct link to Colin Lea's CVPR 2013 papers page (pretty LDA, tfidf rankings)  Now want this for all CVML papers... <EOS>
+<BOS> I don't get much of it but they sequenced 1,000 people and analyzed results, which is cool :) Waiting for popsci articles to highlight bits <EOS>
+<BOS> Actually, looking at it as a glass half full, coupled with Viola Jones detector I can reliably detect colored people in images. <EOS>
+<BOS> Calculus: Single Variable seems to take a rather interesting approach with animations. Wonder how that will turn out <EOS>
+<BOS> "The Falcon has landed" | Recap of Falcon 9 launch and landing  ouch - this stuff really hits the feels <EOS>
+<BOS> Jeff Dean: "I like your ConvNets in Javascript". Me: "Thank you. I like your map reduce." <EOS>
+<BOS> Greg's post on pastpresentfuture of OpenAI  including fun stories of OpenAI early days blog. <EOS>
+<BOS> "But the most important thing to do it is to sell." - A sample from a 1000-hidden-unit character LSTM trained on Paul Graham's essays. ha ha <EOS>
+<BOS> "Did you hear about the man who got cooled to absolute zero? He’s 0K now." <EOS>
+<BOS> Spotted on Reddit: Every part needed to build a VW Golf  pretty cool. Wish they sold some as DIY kits :P <EOS>
+<BOS> TensorFlow 1.0.0-alpha  many numpy API compatibility changes are very welcome, seems could still go even further <EOS>
+<BOS> Going through interweb discussions on Apple's announced Swift  eager to read parts of the manual and give it a try <EOS>
+<BOS> NooOOoo, Google acquiring Twitch for 1B   , one of my fave sites. Now it will require G+, merge accounts, other stuff <EOS>
+<BOS> Proud of my near-perfect progress in Evolution & Genetics and History since 1760 Coursera classes. This will go on my resume. #ohyeeeeah <EOS>
+<BOS> TIL You can't legally watch MLK's "I Have a Dream Speech" for free it's $10 thanks to the King family&US copyright laws <EOS>
+<BOS> Alright I restarted the simulation. I hope I haven't committed a mass genocide and exterminated a whole culture of artificial life. <EOS>
+<BOS> Fluid simulation with Machine Learning  formulates physics-based fluid simulation as a regression problem <EOS>
+<BOS> New series of 4 lectures on Deep Reinforcement Learning from John Schulman  (recorded @ MLSS 2016 in Cadiz) youtube.com John Schulman 2: Deep Reinforcement Learning <EOS>
+<BOS> From Google PhD summit: they are trying to get us drunk -- 45 minute Mixology class session! Talksposters follow <EOS>
+<BOS> I've become very interested in Renewable energy recently and wrote up a blog post about it <EOS>
+<BOS> OpenSurfaces  A dataset to be aware of compiled at Cornell - labeled images with Materials, Reflectances, Textures ... <EOS>
+<BOS> Twitch having fun being hypnotized with zooming inceptionism ConvNet art   (fun idea  @317070  et al.!) twitch.tv 317070 - Twitch 317070 streams live on Twitch! Check out their videos, sign up to chat, and join their community. <EOS>
+<BOS> That graduate student has got to have a lot of faith in his coding abilities. Also must be very motivating to get the model right :s <EOS>
+<BOS> good post & links! Touches on gradient accumulation, gradient checkpointing (no, not the normal checkpointing), the nearly unambiguous superiority of distributed data parallel container in PyTorch, and the overall importance of understanding what's under the hood. I've spent most of 2018 training models that could barely fit 1-4 samplesGPU. But SGD usually needs more than few samplesbatch for decent results. I wrote a post gathering practical tips I use, from simple tricks to multi-GPU code & distributed setups: <EOS>
+<BOS> Nature article released today: "An integrated map of genetic variation from 1,092 human genomes" <EOS>
+<BOS> All this recent chess championship excitement has awoken my chess past and now I'm playing Blitz games until 5am again :'( <EOS>
+<BOS> Checking out Jelly, a social search engine from Biz Stone et al.  It's a good idea, one I heard few times. Might work <EOS>
+<BOS> Twitter update on security incident  so many more antibodies to develop. Social engineering training, 2FA, internal tooling, digital signatures, recognizing deletion of information over time as necessary feature and good default (DMs were accessible), ... blog. <EOS>
+<BOS> This Robot uses webcamComputer Vision + Arduino + Control arm to play Flappy Bird. Awesome :) <EOS>
+<BOS> Ken Goldberg from Berkeley is giving a talk on Cloud Robotics in few minutes, should be interesting <EOS>
+<BOS> Yo fundamenally transforms the nature of communication    :) <EOS>
+<BOS> (had to take that one out because I think it's a little too mean, but it's fun) <EOS>
+<BOS> Simcity 2013 is coming out in <2 hours!! ICCV project on hold while I build an EPIC high-tech city #priorities <EOS>
+<BOS> NIPS paper with Master of Patch Space, Adam Coates, accepted (I'm 2nd). Think Google cat results but k-means ..& inevitably smaller scale :( <EOS>
+<BOS> Super-resolution microscopy  :O en. <EOS>
+<BOS> For optimal YouTube viewing experience, always instantly jump to 13 of the video <EOS>
+<BOS> Speaking of Antarctica though, this IMAX Travel Documentary on YouTube looks very nice <EOS>
+<BOS> I hope the iPad mini rumors are wrong. Those who've seen Steve's keynotes, read the book & interviews know it is not an Apple thing to do <EOS>
+<BOS> Hanging out at NVIDIA's #gtc16. Ironically their processing of VR demos is surprisingly serial <EOS>
+<BOS> Many people were annoyed that stock supply of new iPhone 5S was very very low. Long camping and then sent home due to low supply <EOS>
+<BOS> My favorite part of the interview starts 1 until end. "Elon, how have you done this?" :D <EOS>
+<BOS> A quick blog post: ICLR 2017 vs arxiv-sanity <EOS>
+<BOS> Tweet a program from Wolfram   neat! <EOS>
+<BOS> New paper on arxiv from Geoff Hinton on preventing overfitting in deep nets  it's also related to sex (see last pargrph) <EOS>
+<BOS> writing paper... 2am. Still need to write final exam for my Coursera Genetics class. I haven't come this far to flake out now! <EOS>
+<BOS> My grandma has actually never heard of Google...just blows my mind. I don't even know how to describe it to her, or where to start <EOS>
+<BOS> Hmm. An app that lets you take picture of a mushroom and tells you if its poisonous. ( brainstorming some   #visionstartupideas ) <EOS>
+<BOS> Ran a crossval of arxiv-sanity recommendation alg approachesparams. Increased Recall@20 from 0.25 to 0.31, i.e. probly works bit better now <EOS>
+<BOS> Also learning a lot about where CNNs work and where they fail. That has been most interesting. Hoping to quantify and write it up nicely. <EOS>
+<BOS> Ah crap... spent 6 hours playing Elder Scrolls and it's almost morning. I'm going to regret this tomorrow... <EOS>
+<BOS> I think there are masses of naked, spray-painted undergrads running naked through the campus and yelling... I'm missing something here <EOS>
+<BOS> Next up on my holiday reading list: "The China Study", a data-driven book on nutrition and diet <EOS>
+<BOS> Of course carbon nanotubes are involved. I feel like if I incorporated carbon nanotubes into my diet I'd have a small chance at Xmen powers. <EOS>
+<BOS> Robert Wood's plenary talk on RoboBee project was interesting, impressive and inspiring. #icra2013 <EOS>
+<BOS> TED whirlwind tour of future of medicine. Good presentation, interesting to see overview of trends  via  @daniel_kraft <EOS>
+<BOS> Visual Domain Decathlon - classify 10 datasets at the same time  a fun setup, brings some problems that are rare in academia but common in industry to the forefront, e.g. large data imbalances, multi-task learning, forgetting, domain adaptation <EOS>
+<BOS> Impressed with quality of OpenFace code release   PythonTorch implementation FaceNet paper. Raising the bar <EOS>
+<BOS> Found a beautiful photo of exactly what I needed on Wikimedia released to public domain.I wish good things to this kind and wonderful person <EOS>
+<BOS> I'm still not feeling the wisdom coming across. I need to train a bigger model. <EOS>
+<BOS> Right now my sleep tracking, fitness tacking, latitude GPS history, pictures i take on iphone, everything is disconnected and scattered. Sad <EOS>
+<BOS> And the winner of the 2013 Google Science Fair is... <EOS>
+<BOS> Very cool: Crazyflie Nano Quadcopter pre-release video  10cm, 20g, $150 kit, ~5min fly time, inductive charging <EOS>
+<BOS> I don't know what my next research project is, but I have decided that it will include a Minimum Spanning Tree somewhere. <EOS>
+<BOS> Very entertaining post on Auto-Generating Clickbait with RNNs  "Kim Kardashian Is Married With A Baby In New Mexico" <EOS>
+<BOS> Available video speeds on YouTube: 0, 0.25, 0.5, 0.75, 1.0, 1.25, 1.5, 2.0. What monster left out the 1.75x <EOS>
+<BOS> Lol looks like back wheel on my bike got pierced somewhere. I don't think I want to walk back home at 1am, lol. Stuck at Google <EOS>
+<BOS> Roundup of the worst products from #2013CES . iPotty with a deserved first place :D <EOS>
+<BOS> fun bug: my gradient check worked ok but only because regularization term gave by far highest contribution. Cost grad was incorrect but tiny <EOS>
+<BOS> I've been using PyTorch a few months now and I've never felt better. I have more energy. My skin is clearer. My eye sight has improved. <EOS>
+<BOS> trying to find more booksarticleswork on in-retrospect studies of future predictions (e.g. AC Clarke's Profiles of the Future). fave topic <EOS>
+<BOS> Jonathan Blow - Preventing the Collapse of Civilization  interesting talk, a bear case for monotonic and exponential progress of technology due to turtles on turtles in our tech stacks and generational loss of knowledge. <EOS>
+<BOS> This is one of better optical illusions I've seen. Visual cortex is a strange magical beast <EOS>
+<BOS> Bought tickets for very first and biggest IMAX showing of last Hobbit. Disappointed it's at 7pm instead of mightnight and only hrs :( <EOS>
+<BOS> 3-Sweep: Extracting Editable Objects from a Single Photo, SIGGRAPH ASIA 2013  dark magic, as far as I'm concerned <EOS>
+<BOS> Interview: Scott Hassan on Willow Garage and the Future of Suitable Technologies - IEEE Spectrum spectrum. <EOS>
+<BOS> Ooops, it's 11pm and I just realized I forgot to eat dinner because I was too busy coding. That's what I call "in the zone"! <EOS>
+<BOS> Saw The Martian. Did not disappoint, really enjoyed. Stayed close to book except skipped few of my fave parts (dust storm with no comms etc) <EOS>
+<BOS> The new Google Currents ( looks like a Flipboard copy. I love Flipboard. This feels a bit like bullying again <EOS>
+<BOS> One of favourite moments of yesterday: A friend's 10 minute rant about why Google Glass sucks... to person who turned out to work on it :D <EOS>
+<BOS> Was about to tweet about how awesome The Lego Movie was and noticed Elon Musk shares my opinion :D That movie is on steroids! So good! <EOS>
+<BOS> Filming of The HOBBIT Production video #6 is up!  ::squeels like a little girl:: <EOS>
+<BOS> Hacking on another ConvNetJS demo, implementing DeepMind's Deep Q-Learning stuff but for predator prey agent hunting tactics. Seems to work <EOS>
+<BOS> Mask R-CNN  results look like ground truth. Also CV ppl write signif. more professional looking papers than ML ppl <EOS>
+<BOS> GoPro array is a cute idea  , can rotate the video. Could use some calibration though to remove the wobble  <EOS>
+<BOS> Planetary Resources will mine asteroids for rare metals. Also this is not a joke.  Should have started a Kickstarter :D <EOS>
+<BOS> Whoa, RIP Ben Taskar from "sudden heart attack". Brilliant Machine Learning person, recently hired prof at UW. Unbelievable <EOS>
+<BOS> The Decline of Blizzard  hurts deeeep inside to watch. I grew up with these universes. A part of a much wider trend in gaming <EOS>
+<BOS> Manolis Savva presented on cool project where they sample synthetic 3D scenes from collection of Input Scenes  neat. <EOS>
+<BOS> My email app icon badge shows that I have 1 unread email but when I open it I can’t seefind it. Hashtag the struggles of modern age :’( <EOS>
+<BOS> Virtual Worlds as Proxy for Multi-Object Tracking Analysis  impressive; converts real data to virtual worlds <EOS>
+<BOS> Ben Horowitz: We Like To Invest In College Dropouts With Insane Ideas Going After Tiny Markets With No Way To Monetize <EOS>
+<BOS> New post on placing AlphaGo in context of AI research  trying to mix in a pinch of low-level depth to popsciPR karpathy. <EOS>
+<BOS> AI experts have agreed for decades that AGI is 20 years away, so I always predict 20 as well. Works nicely.  [pdf] <EOS>
+<BOS> Stephen Wolfram does AMA on Reddit <EOS>
+<BOS> DARPA Robotics Challenge teams competed in trials today, videos are up, but they are the most unexciting thing Ever <EOS>
+<BOS> I watched Nature's Deadliest: Australia... and I'm never going to Australia. I think I should stop watching this series of documentaries <EOS>
+<BOS> AlphaGo Zero  v cool based on skim: no sup pretraining, raw board input, resnet, new training scheme. more magic. <EOS>
+<BOS> It's been a while since I last played Factorio, but I can't stop thinking about it, and of the entire economy as being an MMORPG version of it. Factory Town, RimWorld, Banished, Dawn of Man etc are all great too but somehow pack less long-term punch. <EOS>
+<BOS> "My First Year as a Freelance AI Engineer"  fun read masatohagiwara.net My First Year as a Freelance AI Engineer This week marks my one-year anniversary of quitting my full-time job and becoming a freelance AI engineer. I’m writing down my thoughts and experience here so that this might be useful if you are... <EOS>
+<BOS> Dash Robotics: little, cheap, fast hexapod robots, neat! <EOS>
+<BOS> My temporary "standing desk" and setup in new office :D <EOS>
+<BOS> Quite amazing video on network effect. "It only takes one to start a revolution".  via  @flowingdata <EOS>
