@@ -1,2 +1,14 @@
 tweepy
 python-dotenv
+jupyterlab
+ipywidgets
+matplotlib
+seaborn
+numpy
+pandas
+torch
+huggingface
+transformers>3
+scikit-learn
+nltk
+tqdm
