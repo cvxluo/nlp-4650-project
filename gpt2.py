@@ -1,16 +1,12 @@
 import logging
-import os
-from random import sample
-import time
 import math
-import datetime
-from typing import Dict
+import os
 
 import torch
-from torch.utils.data import Dataset
-
-from transformers import PreTrainedTokenizer, GPT2LMHeadModel,  GPT2Tokenizer
-
+from transformers import (DataCollatorForLanguageModeling, GPT2Config,
+                          GPT2LMHeadModel, GPT2TokenizerFast,
+                          LineByLineTextDataset, Trainer, TrainingArguments,
+                          set_seed)
 
 logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
@@ -18,229 +14,242 @@ logging.basicConfig(
     level=logging.INFO,
 )
 logger = logging.getLogger(__name__)
-
-    
-def format_time(elapsed):
-    return str(datetime.timedelta(seconds=int(round((elapsed)))))
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
-class TweetDataset(Dataset):
-    """Dataset to hold tweets from an account"""
-
-    def __init__(self, tokenizer: PreTrainedTokenizer, file_path: str, block_size: int = 768):
-        assert os.path.isfile(file_path), f"Input file path {file_path} not found"
-        self.tokenizer = tokenizer
-        self.examples = []
-        self.attention_masks = []
-
-        logger.info("Creating features from dataset file at %s", file_path)
-
-        with open(file_path, encoding="utf-8") as f:
-            tweets = [line for line in f.read().splitlines() if (len(line) > 0 and not line.isspace())]
-
-        batch_encoding = tokenizer(tweets, truncation=True, max_length=block_size)
-        self.examples = batch_encoding["input_ids"]
-        self.examples = [{"input_ids": torch.tensor(e, dtype=torch.long)} for e in self.examples]
-
-    def __len__(self) -> int:
-        return len(self.examples)
-
-    def __getitem__(self, i) -> Dict[str, torch.tensor]:
-        return self.examples[i]
-
-
-
-def evaluate(model, device, iterator, log_output=True):
-    t0 = time.time()
-    model.eval()
-    total_eval_loss = 0
-
-    # Evaluate data for one epoch
-    for batch in iterator:
-        
-        input_ids = batch[0].to(device)
-        labels = batch[0].to(device)
-        attention_mask = batch[1].to(device)
-        
-        with torch.no_grad():        
-            outputs  = model(
-                input_ids, 
-                attention_mask=attention_mask,
-                labels=labels
-            )
-            loss = outputs[0]  
-            
-        batch_loss = loss.item()
-        total_eval_loss += batch_loss        
-
-    avg_val_loss = total_eval_loss / len(iterator)
-    val_perplexity = math.exp(avg_val_loss)
-    validation_time = format_time(time.time() - t0)
-
-    if log_output:
-        logger.info("Validation Loss: {0:.2f}".format(avg_val_loss))
-        logger.info("Validation perplexity: {0:.2f}".format(val_perplexity))
-        logger.info("Validation took: {:}".format(validation_time))
-
-    return avg_val_loss, val_perplexity
-
-
-def train_loop(model, device, optimizer, iterator, tokenizer, n_samples=1, sample_every=100, log_output=True):
-    t0 = time.time()
-    total_train_loss = 0
-    model.train()
-
-    for step, batch in enumerate(iterator):
-        input_ids = batch[0].to(device)
-        labels = batch[0].to(device)
-        attention_mask = batch[1].to(device)
-
-        model.zero_grad()        
-
-        outputs = model(
-            input_ids,
-            labels=labels, 
-            attention_mask=attention_mask
-        )
-
-        loss = outputs[0]
-        batch_loss = loss.item()
-        total_train_loss += batch_loss
-
-        # Get samples every x batches.
-        if step % sample_every == 0 and not step == 0:
-            elapsed = format_time(time.time() - t0)
-            logger.info("Batch {:>5,}  of  {:>5,}. Loss: {:>5,}.   Elapsed: {:}.".format(step, len(iterator), batch_loss, elapsed))
-
-            model.eval()
-            generate(model, device, tokenizer, n_sequences=n_samples)
-            model.train()
-
-        loss.backward()
-        optimizer.step()
-
-    avg_train_loss = total_train_loss / len(iterator)
-    train_perplexity = math.exp(avg_train_loss)
-    training_time = format_time(time.time() - t0)
-
-    if log_output:
-        logger.info("Average training loss: {0:.2f}".format(avg_train_loss))
-        logger.info("Training perplexity: {0:.2f}".format(train_perplexity))
-        logger.info("Training took: {:}".format(training_time))
-
-    return avg_train_loss, train_perplexity
-
-
-def train(model, device, optimizer, train_iterator, val_iterator, tokenizer,
-          epochs=5, sample_every=100, n_samples=1, log_output=True):
+def train(
+    train_data_file,
+    eval_data_file,
+    epochs=5,
+    learning_rate=5e-5,
+    seed=42,
+    batch_size=2,
+    output_dir="model",
+    model_path=None,
+    **kwargs,
+):
     """Train the GPT-2 by fine-tuning the pretrained LM weights"""
+    set_seed(seed)
 
-    total_t0 = time.time()
-    training_stats = []
+    training_args = TrainingArguments(
+        num_train_epochs=epochs,
+        output_dir=output_dir,
+        overwrite_output_dir=True,
+        per_device_train_batch_size=batch_size,
+        per_device_eval_batch_size=batch_size,
+        learning_rate=learning_rate,
+        do_train=True,
+        do_eval=True,
+        evaluation_strategy="steps",
+        load_best_model_at_end=True,
+        **kwargs,
+    )
 
-    for epoch_i in range(0, epochs):
-        logger.info('======== Epoch {:} / {:} ========'.format(epoch_i + 1, epochs))
-        logger.info('Training...')
-        train_loss, train_perplexity = train_loop(model, device, optimizer, train_iterator, tokenizer, n_samples=n_samples,
-                                                  sample_every=sample_every, log_output=log_output)
-        logger.info("Evaluating...")
-        val_loss, val_perplexity = evaluate(model, device, val_iterator, log_output=log_output)
-        # Record all statistics from this epoch.
-        training_stats.append(
-            {
-                'Epoch': epoch_i + 1,
-                'Training Loss': train_loss,
-                'Training Perplexity': train_perplexity,
-                'Eval Loss': val_loss,
-                'Eval Perplexity':  val_perplexity,
-            }
+    config = GPT2Config.from_pretrained("gpt2")
+    tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
+    model = GPT2LMHeadModel.from_pretrained(
+        "gpt2",
+        config=config,
+    )
+    model.resize_token_embeddings(len(tokenizer))
+
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+        config.pad_token_id = config.eos_token_id
+
+    block_size = tokenizer.model_max_length
+
+    train_dataset = LineByLineTextDataset(tokenizer, train_data_file, block_size)
+    eval_dataset = LineByLineTextDataset(tokenizer, eval_data_file, block_size)
+
+    data_collator = DataCollatorForLanguageModeling(
+        tokenizer=tokenizer,
+        mlm=False,
+    )
+
+    # Initialize our Trainer
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        data_collator=data_collator,
+        train_dataset=train_dataset,
+        eval_dataset=eval_dataset,
+    )
+
+    # Training
+    special_tokens_dict = {
+        "bos_token": "<BOS>",
+        "eos_token": "<EOS>",
+        "pad_token": "<PAD>",
+    }
+    tokenizer.add_special_tokens(special_tokens_dict)
+    model.resize_token_embeddings(len(tokenizer))
+    train_output = trainer.train(model_path=model_path)
+    trainer.save_model()
+    tokenizer.save_pretrained(output_dir)
+
+    print(train_output)
+
+    # Evaluation
+    results = {}
+    eval_output = trainer.evaluate()
+
+    perplexity = math.exp(eval_output["eval_loss"])
+    result = {"perplexity": perplexity}
+
+    output_eval_file = os.path.join(output_dir, "eval_results.txt")
+    with open(output_eval_file, "w") as writer:
+        logger.info("***** Eval results *****")
+        for key in sorted(result.keys()):
+            logger.info("  %s = %s", key, str(result[key]))
+            writer.write("%s = %s\n" % (key, str(result[key])))
+
+    results.update(result)
+    return model, results
+
+
+def hp_search(
+    train_data_file,
+    eval_data_file,
+    n_trials=10,
+    output_dir="model",
+    hp_space=None,
+):
+    config = GPT2Config.from_pretrained("gpt2")
+    tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
+
+    train_dataset = LineByLineTextDataset(
+        tokenizer, train_data_file, tokenizer.model_max_length
+    )
+    eval_dataset = LineByLineTextDataset(
+        tokenizer, eval_data_file, tokenizer.model_max_length
+    )
+
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+        config.pad_token_id = config.eos_token_id
+
+    data_collator = DataCollatorForLanguageModeling(
+        tokenizer=tokenizer,
+        mlm=False,
+    )
+
+    training_args = TrainingArguments(
+        output_dir=output_dir,
+        overwrite_output_dir=True,
+        do_train=True,
+        do_eval=True,
+        disable_tqdm=True,
+        evaluation_strategy="steps",
+        load_best_model_at_end=True,
+    )
+
+    def model_init():
+        return GPT2LMHeadModel.from_pretrained(
+            "gpt2",
+            config=config,
         )
 
-    logger.info("Training complete!")
-    logger.info("Total training took {:} (h:mm:ss)".format(format_time(time.time() - total_t0)))
-    return training_stats
+    trainer = Trainer(
+        args=training_args,
+        data_collator=data_collator,
+        train_dataset=train_dataset,
+        eval_dataset=eval_dataset,
+        model_init=model_init,
+    )
+
+    def hp_space_init(trial):
+        from ray import tune
+
+        return (
+            {
+                "learning_rate": tune.loguniform(5e-6, 5e-4),
+                "per_device_train_batch_size": tune.grid_search([2, 4]),
+                "gradient_accumulation_steps": tune.choice([1, 2]),
+            }
+            if hp_space is None
+            else hp_space
+        )
+
+    return trainer.hyperparameter_search(
+        hp_space=hp_space_init, n_trials=n_trials, backend="ray"
+    )
 
 
-def generate(model, device, tokenizer, prompt="<BOS>", temperature=.85, top_k=50, log_output=True,
-             top_p=0.95, max_length=20, n_sequences=1, repetition_penalty=1.5):
+def generate(
+    username: str,
+    prompt="",
+    stop_token="<EOS>",
+    temperature=1.0,
+    top_k=50,
+    log_output=False,
+    top_p=0.95,
+    min_length=10,
+    max_length=80,
+    n_sequences=1,
+    repetition_penalty=1.0,
+):
     """Generate sequences from the fine-tuned GPT-2 model"""
-    model.eval()
+    model_path = f"models/{username}"
+    tokenizer = GPT2TokenizerFast.from_pretrained(model_path)
+    model = GPT2LMHeadModel.from_pretrained(model_path)
+    model.to(device)
 
-    input_ids = torch.tensor(tokenizer.encode(prompt)).unsqueeze(0)
-    input_ids = input_ids.to(device)
+    if isinstance(prompt, torch.Tensor):
+        input_ids = prompt.to(device)
+    elif isinstance(prompt, str) and tokenizer is not None:
+        input_ids = tokenizer.encode(
+            prompt, add_special_tokens=True, return_tensors="pt"
+        )
+        input_ids = input_ids.to(device)
+    else:
+        raise ValueError("Invalid prompt input")
 
     outputs = model.generate(
         input_ids,
-        top_k=top_k, 
+        top_k=top_k,
+        min_length=min_length,
         max_length=max_length,
-        top_p=top_p, 
+        top_p=top_p,
         num_return_sequences=n_sequences,
         temperature=temperature,
         repetition_penalty=repetition_penalty,
-        early_stopping=True,
         do_sample=True,
     )
-    decoded_outputs = []
 
-    for i, output in enumerate(outputs):
-        decoded_output = tokenizer.decode(output, skip_special_tokens=True)
-        decoded_outputs.append(decoded_output)
+    if len(outputs.shape) > 2:
+        outputs.squeeze_()
+
+    generated_tweets = []
+    for i, generated_sequence in enumerate(outputs):
+        generated_sequence = generated_sequence.tolist()
+        tweet = tokenizer.decode(
+            generated_sequence,
+            skip_special_tokens=True,
+            clean_up_tokenization_spaces=True,
+        )
+        tweet = tweet[: tweet.find(stop_token) if stop_token else None]
+        generated_tweets.append(tweet)
         if log_output:
-            logger.info("Sample {}: {}".format(i, decoded_output))
-    
-    return decoded_outputs
+            logger.info("Sample {}: {}".format(i, tweet))
+
+    if len(generated_tweets) == 1:
+        generated_tweets = generated_tweets[0]
+
+    return generated_tweets
 
 
-def print_model_details(model):
-    """Print out the details of a model"""
-    # Get all of the model's parameters as a list of tuples.
-    params = list(model.named_parameters())
-
-    logger.info('The GPT-2 model has {:} different named parameters.'.format(len(params)))
-    logger.info('==== Embedding Layer ====')
-
-    for p in params[0:2]:
-        logger.info("{:<55} {:>12}".format(p[0], str(tuple(p[1].size()))))
-
-    logger.info('==== First Transformer ====')
-
-    for p in params[2:14]:
-        logger.info("{:<55} {:>12}".format(p[0], str(tuple(p[1].size()))))
-
-    logger.info('==== Output Layer ====')
-
-    for p in params[-2:]:
-        logger.info("{:<55} {:>12}".format(p[0], str(tuple(p[1].size()))))
-
-
-def save_model(username: str, model, tokenizer, output_dir="models"):
-    """Saves the model to models/<username>. The model can then be loaded using from_pretrained method."""
-    output_dir = os.path.join(output_dir, username)
-
-    # Create output directory if needed
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-
-    logger.info(f"Saving model to {output_dir}")
-
-    model.save_pretrained(output_dir)
-    tokenizer.save_pretrained(output_dir)
-
-    logger.info(f"Done saving. Model is located at {output_dir}.")
-
-
-def load_model(username: str, device, models_dir="models", print_details=True):
+def load_model(username: str, models_dir="models", verbose=False):
     """Loads a pretrained model from local models"""
     model_dir = os.path.join(models_dir, username)
 
-    logger.info(f"Loading model from {models_dir}...")
+    if verbose:
+        logger.info(f"Loading model from {models_dir}...")
 
     model = GPT2LMHeadModel.from_pretrained(model_dir).to(device)
-    tokenizer = GPT2Tokenizer.from_pretrained(model_dir)
+    tokenizer = GPT2TokenizerFast.from_pretrained(model_dir)
 
-    logger.info(f"Loaded fine-tuned GPT-2 model for {username}")
-
-    if print_details:
-        print_model_details(model)
+    if verbose:
+        logger.info(f"Loaded fine-tuned GPT-2 model for {username}")
 
     return model, tokenizer
