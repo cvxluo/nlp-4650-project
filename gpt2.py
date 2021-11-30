@@ -3,10 +3,16 @@ import math
 import os
 
 import torch
-from transformers import (DataCollatorForLanguageModeling, GPT2Config,
-                          GPT2LMHeadModel, GPT2TokenizerFast,
-                          LineByLineTextDataset, Trainer, TrainingArguments,
-                          set_seed)
+from transformers import (
+    DataCollatorForLanguageModeling,
+    GPT2Config,
+    GPT2LMHeadModel,
+    GPT2TokenizerFast,
+    LineByLineTextDataset,
+    Trainer,
+    TrainingArguments,
+    set_seed,
+)
 
 logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
@@ -178,7 +184,7 @@ def hp_search(
 
 def generate(
     username: str,
-    prompt="",
+    prompt="<BOS>",
     stop_token="<EOS>",
     temperature=1.0,
     top_k=50,
@@ -188,6 +194,7 @@ def generate(
     max_length=80,
     n_sequences=1,
     repetition_penalty=1.0,
+    skip_special_tokens=True,
 ):
     """Generate sequences from the fine-tuned GPT-2 model"""
     model_path = f"models/{username}"
@@ -225,7 +232,7 @@ def generate(
         generated_sequence = generated_sequence.tolist()
         tweet = tokenizer.decode(
             generated_sequence,
-            skip_special_tokens=True,
+            skip_special_tokens=skip_special_tokens,
             clean_up_tokenization_spaces=True,
         )
         tweet = tweet[: tweet.find(stop_token) if stop_token else None]
