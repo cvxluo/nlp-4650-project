@@ -227,8 +227,10 @@ def main():
     print(candidates)
     print(references)
 
-    model_name = re.sub(r"/", "_", args.model_name_or_path).lower()[1]
-    output_metrics_file = os.path.join(args.output_dir, f"metrics_{args.model_type}_{model_name}.txt")
+    model_name = re.sub(r"/", "_", args.model_name_or_path).lower()
+    output_metrics_file = os.path.join(
+        args.output_dir, f"metrics_{args.model_type}_{model_name}.txt"
+    )
     with open(output_metrics_file, "w") as writer:
         logger.info("***** Metrics results *****")
         for key in sorted(results.keys()):
