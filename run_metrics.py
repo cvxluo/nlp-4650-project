@@ -7,12 +7,8 @@ import numpy as np
 import torch
 from bert_score import score as BERTscore
 from nltk.translate.bleu_score import sentence_bleu
-from transformers import (
-    BertLMHeadModel,
-    BertTokenizerFast,
-    GPT2LMHeadModel,
-    GPT2Tokenizer,
-)
+from transformers import (BertLMHeadModel, BertTokenizerFast, GPT2LMHeadModel,
+                          GPT2Tokenizer)
 
 logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
@@ -231,8 +227,8 @@ def main():
     print(candidates)
     print(references)
 
-    file_id = re.sub(r"/", "_", args.model_name_or_path).lower()
-    output_metrics_file = os.path.join(args.output_dir, f"metrics_{file_id}.txt")
+    model_name = re.sub(r"/", "_", args.model_name_or_path).lower()[1]
+    output_metrics_file = os.path.join(args.output_dir, f"metrics_{args.model_type}_{model_name}.txt")
     with open(output_metrics_file, "w") as writer:
         logger.info("***** Metrics results *****")
         for key in sorted(results.keys()):
