@@ -273,8 +273,6 @@ def evaluate(
             input = tweet[:, :-1]
             target = tweet[:, 1:]
 
-            # cleanup
-            # forward pass
             output, hidden = model(input)
             loss = criterion(output.reshape(-1, vocab_size), target.reshape(-1))
 
