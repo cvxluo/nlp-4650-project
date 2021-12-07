@@ -1,0 +1,4 @@
+bertscore_f1 = 0.8824729323387146
+bertscore_precision = 0.8870217204093933
+bertscore_recall = 0.8784558176994324
+bleu_score = 0.7043814477212029
