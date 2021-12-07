@@ -347,11 +347,11 @@ with_glove = args.with_glove
 
 if with_glove:
     output_metrics_file = os.path.join(
-        args.output_dir, f"metrics_lstm_{args.username}.txt"
+        args.output_dir, f"metrics_glove_lstm_{args.username}.txt"
     )
 else:
     output_metrics_file = os.path.join(
-        args.output_dir, f"metrics_lstm_glove_{args.username}.txt"
+        args.output_dir, f"metrics_lstm_{args.username}.txt"
     )
 
 with open(output_metrics_file, "w") as writer:
