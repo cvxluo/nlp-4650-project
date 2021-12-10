@@ -184,38 +184,21 @@ def main():
             tweet = tweet[: tweet.find(args.stop_token) if args.stop_token else None]
             candidates.append(tweet)
 
-    bleu_3_scores = []
-    bleu_4_scores = []
-    bleu_5_scores = []
+    bleu_scores = []
     for i in range(args.num_ref):
         tokenized_candidate = candidates[i].split()
-        weights = (1.0 / 3.0, 1.0 / 3.0, 1.0 / 3.0)
-        bleu_3 = sentence_bleu(
-            tokenized_references, tokenized_candidate, weights=weights
+        bleu = sentence_bleu(
+            tokenized_references, tokenized_candidate
         )
-        bleu_3_scores.append(bleu_3)
-        weights = (1.0 / 4.0, 1.0 / 4.0, 1.0 / 4.0, 1.0 / 4.0)
-        bleu_4 = sentence_bleu(
-            tokenized_references, tokenized_candidate, weights=weights
-        )
-        bleu_4_scores.append(bleu_4)
-        weights = (1.0 / 5.0, 1.0 / 5.0, 1.0 / 5.0, 1.0 / 5.0, 1.0 / 5.0)
-        bleu_5 = sentence_bleu(
-            tokenized_references, tokenized_candidate, weights=weights
-        )
-        bleu_5_scores.append(bleu_5)
+        bleu_scores.append(bleu)
 
     bertscore_precision, bertscore_recall, bertscore_f1 = BERTscore(
         candidates, references, lang="en"
     )
-    bleu_3_score = np.mean(np.array(bleu_3_scores))
-    bleu_4_score = np.mean(np.array(bleu_4_scores))
-    bleu_5_score = np.mean(np.array(bleu_5_scores))
+    bleu_score = np.mean(np.array(bleu_scores))
 
     results = {
-        "bleu_3_score": bleu_3_score,
-        "bleu_4_score": bleu_4_score,
-        "bleu_5_score": bleu_5_score,
+        "bleu_score": bleu_score,
         "bertscore_precision": bertscore_precision.mean().item(),
         "bertscore_recall": bertscore_recall.mean().item(),
         "bertscore_f1": bertscore_f1.mean().item(),
